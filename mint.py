@@ -34,6 +34,8 @@ def call(method, url, key, body=None, tries=5):
             if e.code in (401, 403):
                 sys.exit(f"Getgems rejected the API key ({e.code}). Check GETGEMS_API_KEY and COLLECTION.")
             print(f"  HTTP {e.code}, retrying ({k + 1}/{tries})…", flush=True)
+        except ValueError as e:
+            sys.exit(f"The API key can't be sent ({e}). Re-save the GETGEMS_API_KEY_MAINNET secret with ONLY the key text.")
         except Exception as e:
             print(f"  {e}, retrying ({k + 1}/{tries})…", flush=True)
         time.sleep(8 * (k + 1))
@@ -49,6 +51,13 @@ def main():
     a = ap.parse_args()
     net = os.environ.get("NETWORK", "testnet").strip().lower()
     key, coll, owner, base = (os.environ.get(k, "").strip() for k in ("GETGEMS_API_KEY", "COLLECTION", "OWNER", "ASSETS_BASE"))
+    raw_lines = len([l for l in key.splitlines() if l.strip()])
+    # keys never contain spaces: drop line breaks, spaces and invisible characters picked up when copying from Telegram
+    key = "".join(ch for ch in key if not ch.isspace() and ch not in "\u200b\u200c\u200d\ufeff\u2060")
+    if key.lower().startswith(("apikey:", "api_key:", "key:", "authorization:")):
+        key = key.split(":", 1)[1]
+    if raw_lines > 1:
+        print(f"note: the API key secret had {raw_lines} lines — cleaned it into one ({len(key)} characters).", flush=True)
     print(f"network={net}  api_key={'set' if key else 'MISSING'}  collection={coll or 'MISSING'}  owner={owner or 'MISSING'}  assets={base or 'MISSING'}", flush=True)
     if not a.dry_run and not all((key, coll, owner, base)):
         sys.exit("Missing setting(s) above. Check the names in GitHub Settings -> Secrets and variables -> Actions.")
