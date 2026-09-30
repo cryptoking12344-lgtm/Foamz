@@ -49,8 +49,9 @@ def main():
     a = ap.parse_args()
     net = os.environ.get("NETWORK", "testnet").strip().lower()
     key, coll, owner, base = (os.environ.get(k, "").strip() for k in ("GETGEMS_API_KEY", "COLLECTION", "OWNER", "ASSETS_BASE"))
+    print(f"network={net}  api_key={'set' if key else 'MISSING'}  collection={coll or 'MISSING'}  owner={owner or 'MISSING'}  assets={base or 'MISSING'}", flush=True)
     if not a.dry_run and not all((key, coll, owner, base)):
-        sys.exit("Missing GETGEMS_API_KEY / COLLECTION / OWNER / ASSETS_BASE")
+        sys.exit("Missing setting(s) above. Check the names in GitHub Settings -> Secrets and variables -> Actions.")
     items = json.load(open("drop1_items.json"))
     if a.ids:
         want = {int(x) for x in a.ids.split(",")}

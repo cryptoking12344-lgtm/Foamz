@@ -27,8 +27,8 @@ jobs:
         env:
           NETWORK: ${{ inputs.network }}
           GETGEMS_API_KEY: ${{ inputs.network == 'mainnet' && secrets.GETGEMS_API_KEY_MAINNET || secrets.GETGEMS_API_KEY_TESTNET }}
-          COLLECTION: ${{ inputs.network == 'mainnet' && vars.COLLECTION_MAINNET || vars.COLLECTION_TESTNET }}
-          OWNER: ${{ inputs.network == 'mainnet' && vars.OWNER_MAINNET || vars.OWNER_TESTNET }}
+          COLLECTION: ${{ inputs.network == 'mainnet' && (vars.COLLECTION_MAINNET || secrets.COLLECTION_MAINNET) || (vars.COLLECTION_TESTNET || secrets.COLLECTION_TESTNET) }}
+          OWNER: ${{ inputs.network == 'mainnet' && (vars.OWNER_MAINNET || secrets.OWNER_MAINNET) || (vars.OWNER_TESTNET || secrets.OWNER_TESTNET) }}
           ASSETS_BASE: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}
         run: |
           if [ -n "${{ inputs.ids }}" ]; then ARGS="--ids ${{ inputs.ids }}"; else ARGS="--batch ${{ inputs.batch }}"; fi
