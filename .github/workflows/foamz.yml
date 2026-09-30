@@ -6,7 +6,7 @@ on:
       network: {description: "testnet or mainnet", type: choice, options: [mainnet, testnet], default: mainnet}
       batch: {description: "Drop 1 batch (1-10), 0 = launch Mythics", default: "1"}
       ids: {description: "Or FOAMZ numbers, e.g. 1,25,33", default: ""}
-      limit: {description: "Only first N (e.g. 2 to test). Empty = whole batch", default: "2"}
+      limit: {description: "Only first N (e.g. 2 to test). Empty = whole batch", default: ""}
 permissions:
   contents: write
 concurrency: foamz
