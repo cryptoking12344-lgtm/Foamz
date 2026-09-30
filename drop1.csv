@@ -1,0 +1,1001 @@
+batch,id,name,tier,rank,move,foam,partner,backdrop,price_gram
+1,27,FOAMZ #27,Common,6574,Money Printer,Ice,,Cappuccino,3.5
+1,230,FOAMZ #230,Common,6641,Gram Rain,Lemon,,Lemon Fizz,3.5
+1,247,FOAMZ #247,Uncommon,2842,Walk Away,Bubblegum,,Bubble Tea,5
+1,327,FOAMZ #327,Uncommon,3105,Money Printer,Peach,,Teal Wave,5
+1,332,FOAMZ #332,Uncommon,2452,Surf's Up,Cloud,,Salmon Roll,5
+1,345,FOAMZ #345,Uncommon,3548,Cheers,Midnight,Sky,Grape Soda,5
+1,403,FOAMZ #403,Rare,1256,Trophy Lift,Shiba,,Teal Wave,10
+1,451,FOAMZ #451,Common,6155,Vibing,Sky,,Sunset Peel,3.5
+1,531,FOAMZ #531,Rare,1281,Keepy Uppy,Sky,,Sunset Peel,10
+1,1164,FOAMZ #1164,Common,7120,Money Printer,Grape,,Cappuccino,3.5
+1,1165,FOAMZ #1165,Uncommon,2744,Surf's Up,Peach,,Pistachio,5
+1,1258,FOAMZ #1258,Common,6460,Airdrop,Black Shiba,,Grape Soda,3.5
+1,1416,FOAMZ #1416,Common,6453,Diamond Hands,Black Shiba,,Periwinkle,3.5
+1,1430,FOAMZ #1430,Uncommon,2558,Lollipop,Sky,,Emerald City,5
+1,1535,FOAMZ #1535,Rare,1187,Trophy Lift,Galaxy,,Fandango Pop,10
+1,1685,FOAMZ #1685,Epic,330,Gold Souk,Tangerine,Tangerine,Grape Soda,25
+1,1713,FOAMZ #1713,Common,6497,Number Go Up,Shiba,,Teal Wave,3.5
+1,1767,FOAMZ #1767,Uncommon,2858,Bottle Flip,Lime,,Steel Blue,5
+1,1776,FOAMZ #1776,Common,6590,Bitcoin Bling,Lemon,,Cherry Cola,3.5
+1,1891,FOAMZ #1891,Uncommon,3573,High Five,Grape,Lime,Periwinkle,5
+1,1898,FOAMZ #1898,Uncommon,2431,Keepy Uppy,Midnight,,Burgundy Velvet,5
+1,2070,FOAMZ #2070,Common,6144,Laser Duel,Peach,Peach,Periwinkle,3.5
+1,2233,FOAMZ #2233,Uncommon,3005,Wen Lambo,Lime,,Lemon Fizz,5
+1,2296,FOAMZ #2296,Uncommon,3010,Birthday Blowout,Holo,,Mint Chip,5
+1,2441,FOAMZ #2441,Common,5793,Max PR,Ice,,Cherry Cola,3.5
+1,2570,FOAMZ #2570,Rare,1689,Birthday Blowout,Holo,,Teal Wave,10
+1,2762,FOAMZ #2762,Common,6239,Deal With It,Lemon,,Electric Violet,3.5
+1,2783,FOAMZ #2783,Common,5671,Max PR,Mint,,Teal Wave,3.5
+1,2786,FOAMZ #2786,Rare,1533,Rug Pull,Lemon,,Teal Wave,10
+1,2856,FOAMZ #2856,Epic,374,Screen Smash,Mint,Peach,Deep Sea,25
+1,2865,FOAMZ #2865,Common,6219,Smoke Rings,Sky,,Steel Blue,3.5
+1,2944,FOAMZ #2944,Common,6447,Everything's Fine,Bubblegum,,Electric Violet,3.5
+1,3076,FOAMZ #3076,Epic,890,Dune Bash,Gold,,Tomato Soup,25
+1,3156,FOAMZ #3156,Rare,1419,Buy The Dip,Galaxy,,Teal Wave,10
+1,3229,FOAMZ #3229,Common,6171,Walk Away,Bubblegum,,Onyx,3.5
+1,3241,FOAMZ #3241,Common,5756,Scaredy Foam,Fire,,Cherry Cola,3.5
+1,3688,FOAMZ #3688,Common,6677,Buy The Dip,Galaxy,,Periwinkle,3.5
+1,3729,FOAMZ #3729,Legendary,194,Lollipop,Galaxy,,Salmon Roll,60
+1,3740,FOAMZ #3740,Rare,1175,Screen Smash,Bubblegum,Lemon,Cherry Cola,10
+1,4021,FOAMZ #4021,Epic,474,Falcon,Mint,,Electric Violet,25
+1,4090,FOAMZ #4090,Common,6616,Aura Farming,Ice,,Periwinkle,3.5
+1,4165,FOAMZ #4165,Epic,568,Vibing,Gold,,Steel Blue,25
+1,4298,FOAMZ #4298,Uncommon,3391,High Five,Mint,Ice,Pistachio,5
+1,4308,FOAMZ #4308,Common,6255,Bottle Flip,Cloud,,Sunset Peel,3.5
+1,4319,FOAMZ #4319,Common,5806,Max PR,Grape,,Deep Sea,3.5
+1,4412,FOAMZ #4412,Epic,519,High Five,Fire,Grape,Teal Wave,25
+1,4490,FOAMZ #4490,Uncommon,2741,Vibing,Shiba,,Black Hole,5
+1,4573,FOAMZ #4573,Common,6230,GM Coffee,Chrome,,Electric Violet,3.5
+1,4639,FOAMZ #4639,Common,6216,Bottle Flip,Grape,,Pistachio,3.5
+1,4662,FOAMZ #4662,Epic,564,Oud & Bakhoor,Coral,,Night Mode,25
+1,4788,FOAMZ #4788,Common,6500,Squeeze Out,Bubblegum,,Deep Sea,3.5
+1,4792,FOAMZ #4792,Rare,1413,Zen Mode,Shiba,,Neon Night,10
+1,5126,FOAMZ #5126,Uncommon,2872,Vibing,Ice,,Steel Blue,5
+1,5273,FOAMZ #5273,Common,5681,Glow Up,Cloud,,Salmon Roll,3.5
+1,5282,FOAMZ #5282,Legendary,31,Screen Smash,Midnight,Shiba,Cappuccino,60
+1,5325,FOAMZ #5325,Rare,1829,Bitcoin Bling,Ice,,Lavender Haze,10
+1,5382,FOAMZ #5382,Uncommon,2929,Walk Away,Sky,,Tomato Soup,5
+1,5391,FOAMZ #5391,Common,5729,Keepy Uppy,Peach,,Pistachio,3.5
+1,5401,FOAMZ #5401,Rare,1261,Lollipop,Ice,,Fandango Pop,10
+1,5469,FOAMZ #5469,Common,6476,The Squeeze,Tangerine,,Sunset Peel,3.5
+1,5602,FOAMZ #5602,Legendary,157,Noodle Slurp,Cloud,,Black Gold,60
+1,6242,FOAMZ #6242,Common,6680,Birthday Blowout,Cloud,,Grape Soda,3.5
+1,6507,FOAMZ #6507,Uncommon,2581,Max PR,Fire,,Lemon Fizz,5
+1,6516,FOAMZ #6516,Uncommon,3139,Bitcoin Bling,Holo,,Grape Soda,5
+1,6562,FOAMZ #6562,Common,6386,Number Go Up,Lemon,,Deep Sea,3.5
+1,6600,FOAMZ #6600,Uncommon,2444,Laser Duel,Lemon,Toxic,Periwinkle,5
+1,6628,FOAMZ #6628,Uncommon,2677,Zen Mode,Toxic,,Salmon Roll,5
+1,6654,FOAMZ #6654,Common,6591,Aura Farming,Fire,,Lemon Fizz,3.5
+1,6664,FOAMZ #6664,Uncommon,3161,Buy The Dip,Toxic,,Cherry Cola,5
+1,6819,FOAMZ #6819,Common,5733,Scaredy Foam,Sky,,Mint Chip,3.5
+1,6905,FOAMZ #6905,Common,5933,Trophy Lift,Midnight,,Periwinkle,3.5
+1,6936,FOAMZ #6936,Uncommon,2662,Lollipop,Peach,,Aurora,5
+1,7176,FOAMZ #7176,Common,5790,Swole Bros,Cloud,Lime,Deep Sea,3.5
+1,7237,FOAMZ #7237,Rare,1876,Gram Rain,Tangerine,,Emerald City,10
+1,7416,FOAMZ #7416,Uncommon,3097,Buy The Dip,Shiba,,Emerald City,5
+1,7427,FOAMZ #7427,Uncommon,2430,Busted,Toxic,Lime,Sunset Peel,5
+1,7612,FOAMZ #7612,Common,5708,Couch Gamers,Sky,Lemon,Salmon Roll,3.5
+1,7778,FOAMZ #7778,Uncommon,3027,Horse Dance,Coral,,Neon Night,5
+1,7818,FOAMZ #7818,Uncommon,3079,Floss,Gold,,Sunset Peel,5
+1,7974,FOAMZ #7974,Uncommon,2832,Airdrop,Mint,,Lavender Haze,5
+1,7994,FOAMZ #7994,Common,5772,Keepy Uppy,Fire,,Periwinkle,3.5
+1,8084,FOAMZ #8084,Epic,541,Punch Out,Shiba,Black Shiba,Lavender Haze,25
+1,8187,FOAMZ #8187,Common,7168,Wen Lambo,Bubblegum,,Deep Sea,3.5
+1,8214,FOAMZ #8214,Rare,1541,Cheers,Bubblegum,Grape,Sunset Peel,10
+1,8253,FOAMZ #8253,Uncommon,2936,Dab,Lemon,,Lavender Haze,5
+1,8446,FOAMZ #8446,Common,6465,Bottle Flip,Mint,,Neon Night,3.5
+1,8466,FOAMZ #8466,Rare,1834,Airdrop,Midnight,,Sunset Peel,10
+1,8581,FOAMZ #8581,Rare,1988,Bottle Flip,Lemon,,Salmon Roll,10
+1,8639,FOAMZ #8639,Common,5852,Lollipop,Shiba,,Steel Blue,3.5
+1,8741,FOAMZ #8741,Uncommon,2952,Airdrop,Peach,,Cherry Cola,5
+1,8777,FOAMZ #8777,Common,5696,Swole Bros,Bubblegum,Coral,Grape Soda,3.5
+1,8876,FOAMZ #8876,Rare,1862,Rug Pull,Mint,,Periwinkle,10
+1,9307,FOAMZ #9307,Uncommon,3211,Horse Dance,Ice,,Deep Sea,5
+1,9337,FOAMZ #9337,Rare,1446,Surf's Up,Lime,,Periwinkle,10
+1,9338,FOAMZ #9338,Epic,354,Busted,Cloud,Chrome,Periwinkle,25
+1,9357,FOAMZ #9357,Rare,1544,Birthday Blowout,Cloud,,Periwinkle,10
+1,9408,FOAMZ #9408,Common,5818,Lollipop,Peach,,Cappuccino,3.5
+1,9793,FOAMZ #9793,Rare,1905,Squeeze Out,Chrome,,Deep Sea,10
+1,9802,FOAMZ #9802,Common,5773,Keepy Uppy,Tangerine,,Cherry Cola,3.5
+1,9942,FOAMZ #9942,Uncommon,3489,Punch Out,Mint,Black Shiba,Sunset Peel,5
+2,26,FOAMZ #26,Common,7292,Cheers,Lemon,Cloud,Bubble Tea,3.5
+2,137,FOAMZ #137,Uncommon,3625,High Five,Shiba,Peach,Cherry Cola,5
+2,187,FOAMZ #187,Uncommon,3321,Wanderlust,Toxic,,Periwinkle,5
+2,263,FOAMZ #263,Epic,516,Punch Out,Toxic,Grape,Pistachio,25
+2,360,FOAMZ #360,Rare,1201,Couch Gamers,Coral,Grape,Royal Wine,10
+2,522,FOAMZ #522,Uncommon,2671,Screen Smash,Bubblegum,Tangerine,Mint Chip,5
+2,662,FOAMZ #662,Uncommon,3012,Buy The Dip,Ice,,Salmon Roll,5
+2,743,FOAMZ #743,Rare,1278,Noodle Slurp,Diamond,,Candy Crush,10
+2,760,FOAMZ #760,Uncommon,3028,Squeeze Out,Fire,,Sunset Peel,5
+2,814,FOAMZ #814,Rare,1537,High Five,Lime,Black Shiba,Mint Chip,10
+2,1042,FOAMZ #1042,Common,5694,Profit Mode,Mint,,Lavender Haze,3.5
+2,1072,FOAMZ #1072,Uncommon,2645,Scaredy Foam,Lime,,Emerald City,5
+2,1138,FOAMZ #1138,Common,6621,The Squeeze,Toxic,,Periwinkle,3.5
+2,1178,FOAMZ #1178,Uncommon,3447,Cheers,Coral,Coral,Emerald City,5
+2,1180,FOAMZ #1180,Uncommon,4237,To The Moon,Grape,,Sunset Peel,5
+2,1468,FOAMZ #1468,Common,6477,Floss,Fire,,Bubble Tea,3.5
+2,1564,FOAMZ #1564,Uncommon,2766,Glow Up,Midnight,,Cappuccino,5
+2,1593,FOAMZ #1593,Common,5753,Busted,Bubblegum,Grape,Deep Sea,3.5
+2,1617,FOAMZ #1617,Rare,1178,Laser Duel,Shiba,Shiba,Periwinkle,10
+2,1732,FOAMZ #1732,Common,6096,Zen Mode,Coral,,Mint Chip,3.5
+2,1757,FOAMZ #1757,Epic,1112,Glow Up,Ice,,Black Gold,25
+2,1950,FOAMZ #1950,Rare,1170,Laser Duel,Peach,Bubblegum,Lavender Haze,10
+2,1987,FOAMZ #1987,Common,5680,Noodle Slurp,Sky,,Teal Wave,3.5
+2,2061,FOAMZ #2061,Rare,1910,Money Printer,Toxic,,Periwinkle,10
+2,2196,FOAMZ #2196,Uncommon,2606,Screen Wipe,Fire,,Teal Wave,5
+2,2236,FOAMZ #2236,Common,5698,Profit Mode,Ice,,Cappuccino,3.5
+2,2272,FOAMZ #2272,Common,6696,Squeeze Out,Grape,,Salmon Roll,3.5
+2,2330,FOAMZ #2330,Uncommon,3333,Cheers,Tangerine,Ice,Grape Soda,5
+2,2366,FOAMZ #2366,Common,5677,Swole Bros,Lime,Lemon,Tomato Soup,3.5
+2,2633,FOAMZ #2633,Epic,457,Keepy Uppy,Lemon,,Burgundy Velvet,25
+2,2833,FOAMZ #2833,Uncommon,2666,Zen Mode,Black Shiba,,Deep Sea,5
+2,2877,FOAMZ #2877,Common,6642,To The Moon,Lime,,Mint Chip,3.5
+2,2965,FOAMZ #2965,Common,5697,Swole Bros,Shiba,Tangerine,Grape Soda,3.5
+2,3038,FOAMZ #3038,Uncommon,3550,Punch Out,Toxic,Midnight,Steel Blue,5
+2,3141,FOAMZ #3141,Common,6275,Aura Farming,Cloud,,Sunset Peel,3.5
+2,3181,FOAMZ #3181,Uncommon,3174,Chill Flames,Tangerine,,Teal Wave,5
+2,3261,FOAMZ #3261,Epic,523,Love Boop,Grape,Chrome,Lavender Haze,25
+2,3295,FOAMZ #3295,Common,6196,Deal With It,Toxic,,Lavender Haze,3.5
+2,3412,FOAMZ #3412,Common,7239,High Five,Mint,Grape,Mint Chip,3.5
+2,3445,FOAMZ #3445,Common,6331,Dab,Fire,,Deep Sea,3.5
+2,3450,FOAMZ #3450,Common,6742,Horse Dance,Tangerine,,Mint Chip,3.5
+2,3508,FOAMZ #3508,Common,7166,Rug Pull,Ice,,Periwinkle,3.5
+2,3568,FOAMZ #3568,Legendary,53,Busted,Toxic,Grape,Lemon Fizz,60
+2,3569,FOAMZ #3569,Common,6409,The Squeeze,Midnight,,Cherry Cola,3.5
+2,3570,FOAMZ #3570,Uncommon,3234,Chill Flames,Mint,,Bubble Tea,5
+2,3572,FOAMZ #3572,Rare,1804,Bottle Flip,Cloud,,Emerald City,10
+2,3797,FOAMZ #3797,Uncommon,3054,Birthday Blowout,Coral,,Pearl,5
+2,3870,FOAMZ #3870,Common,6431,Airdrop,Chrome,,Steel Blue,3.5
+2,4390,FOAMZ #4390,Rare,1555,Birthday Blowout,Black Shiba,,Gold Rush,10
+2,4518,FOAMZ #4518,Legendary,29,Gold Souk,Peach,Peach,Pearl,60
+2,4643,FOAMZ #4643,Epic,431,Falcon,Cloud,,Periwinkle,25
+2,4715,FOAMZ #4715,Rare,1506,Bitcoin Bling,Sky,,Pearl,10
+2,4964,FOAMZ #4964,Rare,1532,Punch Out,Tangerine,Ice,Grape Soda,10
+2,5031,FOAMZ #5031,Uncommon,3167,Diamond Hands,Tangerine,,Periwinkle,5
+2,5082,FOAMZ #5082,Common,6703,Dab,Lime,,Fandango Pop,3.5
+2,5143,FOAMZ #5143,Rare,1519,Zen Mode,Black Shiba,,Steel Blue,10
+2,5192,FOAMZ #5192,Common,5710,Busted,Peach,Mint,Sunset Peel,3.5
+2,5238,FOAMZ #5238,Rare,1314,Max PR,Galaxy,,Salmon Roll,10
+2,5284,FOAMZ #5284,Uncommon,3593,High Five,Shiba,Lime,Electric Violet,5
+2,5327,FOAMZ #5327,Common,6063,Zen Mode,Tangerine,,Lavender Haze,3.5
+2,5438,FOAMZ #5438,Common,6220,Wen Lambo,Bubblegum,,Sunset Peel,3.5
+2,5490,FOAMZ #5490,Epic,312,Habibi,Toxic,Peach,Onyx,25
+2,5665,FOAMZ #5665,Common,5716,Scaredy Foam,Shiba,,Lavender Haze,3.5
+2,5712,FOAMZ #5712,Uncommon,3652,Deal With It,Cloud,,Onyx,5
+2,5772,FOAMZ #5772,Uncommon,3511,Love Boop,Lemon,Lemon,Onyx,5
+2,6138,FOAMZ #6138,Epic,674,Buy The Dip,Diamond,,Deep Sea,25
+2,6428,FOAMZ #6428,Common,6693,Squeeze Out,Lime,,Bubble Tea,3.5
+2,6484,FOAMZ #6484,Uncommon,3171,Deal With It,Peach,,Neon Night,5
+2,6512,FOAMZ #6512,Common,6913,Dab,Fire,,Teal Wave,3.5
+2,6762,FOAMZ #6762,Uncommon,2487,Fat To Fit,Ice,,Cappuccino,5
+2,6825,FOAMZ #6825,Common,6217,Gram Rain,Sky,,Pistachio,3.5
+2,6938,FOAMZ #6938,Common,6197,Diamond Hands,Shiba,,Periwinkle,3.5
+2,7196,FOAMZ #7196,Uncommon,2885,Walk Away,Coral,,Fandango Pop,5
+2,7287,FOAMZ #7287,Uncommon,2408,Busted,Ice,Lemon,Mint Chip,5
+2,7706,FOAMZ #7706,Rare,1891,Vibing,Holo,,Emerald City,10
+2,7784,FOAMZ #7784,Common,6462,The Squeeze,Cloud,,Sunset Peel,3.5
+2,7822,FOAMZ #7822,Common,5954,Wanderlust,Lime,,Pistachio,3.5
+2,8015,FOAMZ #8015,Uncommon,2974,Bottle Flip,Lemon,,Pearl,5
+2,8287,FOAMZ #8287,Rare,1236,Surf's Up,Grape,,Mint Chip,10
+2,8306,FOAMZ #8306,Common,5705,Wanderlust,Ice,,Grape Soda,3.5
+2,8450,FOAMZ #8450,Uncommon,2419,Couch Gamers,Peach,Coral,Deep Sea,5
+2,8603,FOAMZ #8603,Rare,1512,Floss,Shiba,,Cappuccino,10
+2,8610,FOAMZ #8610,Rare,1495,To The Moon,Bubblegum,,Neon Night,10
+2,8791,FOAMZ #8791,Common,6226,Vibing,Black Shiba,,Electric Violet,3.5
+2,8804,FOAMZ #8804,Common,7341,Punch Out,Bubblegum,Coral,Salmon Roll,3.5
+2,8807,FOAMZ #8807,Epic,288,Wedding Day,Bubblegum,Bubblegum,Electric Violet,25
+2,8844,FOAMZ #8844,Common,7440,High Five,Mint,Lime,Salmon Roll,3.5
+2,8870,FOAMZ #8870,Common,5712,Keepy Uppy,Bubblegum,,Electric Violet,3.5
+2,8913,FOAMZ #8913,Common,6116,The Squeeze,Cloud,,Grape Soda,3.5
+2,9211,FOAMZ #9211,Legendary,239,Glow Up,Mint,,Black Gold,60
+2,9236,FOAMZ #9236,Uncommon,2537,Trophy Lift,Lime,,Cherry Cola,5
+2,9256,FOAMZ #9256,Common,6514,Diamond Hands,Ice,,Cherry Cola,3.5
+2,9362,FOAMZ #9362,Rare,1350,Noodle Slurp,Grape,,Deep Sea,10
+2,9561,FOAMZ #9561,Uncommon,3401,Deal With It,Toxic,,Steel Blue,5
+2,9590,FOAMZ #9590,Common,5783,Lollipop,Tangerine,,Fandango Pop,3.5
+2,9623,FOAMZ #9623,Common,5678,Trophy Lift,Peach,,Lemon Fizz,3.5
+2,9782,FOAMZ #9782,Epic,508,Love Boop,Galaxy,Black Shiba,Onyx,25
+2,9919,FOAMZ #9919,Uncommon,2923,Birthday Blowout,Mint,,Lavender Haze,5
+2,9950,FOAMZ #9950,Rare,1184,Busted,Sky,Lime,Cappuccino,10
+2,9962,FOAMZ #9962,Uncommon,2538,Noodle Slurp,Bubblegum,,Cherry Cola,5
+3,18,FOAMZ #18,Uncommon,3497,Wen Lambo,Black Shiba,,Grape Soda,5
+3,131,FOAMZ #131,Common,7369,High Five,Bubblegum,Cloud,Sunset Peel,3.5
+3,228,FOAMZ #228,Common,6170,GM Coffee,Ice,,Onyx,3.5
+3,377,FOAMZ #377,Uncommon,2921,To The Moon,Ice,,Neon Night,5
+3,476,FOAMZ #476,Common,5754,Lollipop,Midnight,,Neon Night,3.5
+3,482,FOAMZ #482,Common,6572,Wen Lambo,Cloud,,Tomato Soup,3.5
+3,803,FOAMZ #803,Epic,360,Busted,Peach,Bubblegum,Teal Wave,25
+3,858,FOAMZ #858,Uncommon,2573,Profit Mode,Midnight,,Emerald City,5
+3,866,FOAMZ #866,Uncommon,3156,Number Go Up,Holo,,Pistachio,5
+3,1225,FOAMZ #1225,Uncommon,2637,Screen Wipe,Sky,,Neon Night,5
+3,1249,FOAMZ #1249,Common,6251,Vibing,Lemon,,Mint Chip,3.5
+3,1263,FOAMZ #1263,Common,5760,Lollipop,Grape,,Gold Rush,3.5
+3,1319,FOAMZ #1319,Uncommon,2421,Keepy Uppy,Diamond,,Fandango Pop,5
+3,1424,FOAMZ #1424,Common,7121,Chill Flames,Ice,,Bubble Tea,3.5
+3,1759,FOAMZ #1759,Uncommon,2517,Trophy Lift,Peach,,Lavender Haze,5
+3,1859,FOAMZ #1859,Common,6482,Diamond Hands,Peach,,Grape Soda,3.5
+3,1874,FOAMZ #1874,Common,5737,Keepy Uppy,Tangerine,,Lavender Haze,3.5
+3,2068,FOAMZ #2068,Rare,1618,Walk Away,Gold,,Teal Wave,10
+3,2085,FOAMZ #2085,Rare,1785,Deal With It,Ice,,Pistachio,10
+3,2110,FOAMZ #2110,Common,5949,Wanderlust,Fire,,Pistachio,3.5
+3,2125,FOAMZ #2125,Common,6340,Vibing,Shiba,,Grape Soda,3.5
+3,2317,FOAMZ #2317,Uncommon,2543,Max PR,Peach,,Onyx,5
+3,2361,FOAMZ #2361,Epic,728,Karak Time,Shiba,,Periwinkle,25
+3,2422,FOAMZ #2422,Rare,1320,Fat To Fit,Chrome,,Teal Wave,10
+3,2535,FOAMZ #2535,Common,6611,Spooky Szn,Ice,,Pistachio,3.5
+3,2761,FOAMZ #2761,Legendary,27,Laser Duel,Sky,Gold,Aurora,60
+3,2834,FOAMZ #2834,Uncommon,2422,Swole Bros,Fire,Toxic,Lemon Fizz,5
+3,2886,FOAMZ #2886,Common,5676,Busted,Mint,Tangerine,Salmon Roll,3.5
+3,3128,FOAMZ #3128,Uncommon,3222,Floss,Black Shiba,,Teal Wave,5
+3,3206,FOAMZ #3206,Common,7581,To The Moon,Mint,,Deep Sea,3.5
+3,3212,FOAMZ #3212,Rare,1540,High Five,Bubblegum,Black Shiba,Periwinkle,10
+3,3274,FOAMZ #3274,Common,6162,Bitcoin Bling,Lemon,,Onyx,3.5
+3,3284,FOAMZ #3284,Common,6354,GM Coffee,Shiba,,Bubble Tea,3.5
+3,3348,FOAMZ #3348,Uncommon,2762,Vibing,Gold,,Mint Chip,5
+3,3355,FOAMZ #3355,Epic,892,Karak Time,Sky,,Onyx,25
+3,3401,FOAMZ #3401,Common,5758,Max PR,Coral,,Cherry Cola,3.5
+3,3442,FOAMZ #3442,Common,6353,Spooky Szn,Mint,,Cherry Cola,3.5
+3,3474,FOAMZ #3474,Rare,1257,Keepy Uppy,Cloud,,Periwinkle,10
+3,3547,FOAMZ #3547,Common,6805,Gram Rain,Fire,,Fandango Pop,3.5
+3,3612,FOAMZ #3612,Uncommon,2413,Keepy Uppy,Mint,,Cappuccino,5
+3,3668,FOAMZ #3668,Legendary,155,Scaredy Foam,Tangerine,,Pearl,60
+3,3757,FOAMZ #3757,Common,5851,Fat To Fit,Peach,,Teal Wave,3.5
+3,3811,FOAMZ #3811,Common,5675,Screen Wipe,Tangerine,,Periwinkle,3.5
+3,3856,FOAMZ #3856,Common,6774,Floss,Galaxy,,Pistachio,3.5
+3,4085,FOAMZ #4085,Uncommon,3104,Smoke Rings,Midnight,,Emerald City,5
+3,4168,FOAMZ #4168,Epic,522,High Five,Bubblegum,Galaxy,Deep Sea,25
+3,4200,FOAMZ #4200,Rare,1180,Screen Smash,Grape,Tangerine,Teal Wave,10
+3,4419,FOAMZ #4419,Common,5906,Lollipop,Chrome,,Electric Violet,3.5
+3,4434,FOAMZ #4434,Uncommon,2740,Wanderlust,Coral,,Bubble Tea,5
+3,4837,FOAMZ #4837,Common,7272,Punch Out,Bubblegum,Cloud,Pistachio,3.5
+3,4847,FOAMZ #4847,Uncommon,2550,Trophy Lift,Cloud,,Grape Soda,5
+3,4901,FOAMZ #4901,Common,6418,Birthday Blowout,Lemon,,Fandango Pop,3.5
+3,4923,FOAMZ #4923,Rare,1173,Busted,Bubblegum,Lemon,Grape Soda,10
+3,4970,FOAMZ #4970,Common,6419,Everything's Fine,Lime,,Bubble Tea,3.5
+3,5289,FOAMZ #5289,Uncommon,3017,Airdrop,Shiba,,Cappuccino,5
+3,5318,FOAMZ #5318,Epic,740,Money Printer,Fire,,Deep Sea,25
+3,5386,FOAMZ #5386,Uncommon,2483,Noodle Slurp,Sky,,Grape Soda,5
+3,5462,FOAMZ #5462,Uncommon,3569,Punch Out,Fire,Lemon,Grape Soda,5
+3,5588,FOAMZ #5588,Common,6813,Wen Lambo,Tangerine,,Emerald City,3.5
+3,5728,FOAMZ #5728,Uncommon,3109,The Squeeze,Ice,,Mint Chip,5
+3,5852,FOAMZ #5852,Common,5732,Noodle Slurp,Coral,,Salmon Roll,3.5
+3,5863,FOAMZ #5863,Epic,331,Shisha Chill,Ice,Fire,Candy Crush,25
+3,5932,FOAMZ #5932,Uncommon,2590,Trophy Lift,Fire,,Cherry Cola,5
+3,5980,FOAMZ #5980,Rare,1192,Swole Bros,Lime,Shiba,Periwinkle,10
+3,6000,FOAMZ #6000,Epic,362,Screen Smash,Holo,Tangerine,Bubble Tea,25
+3,6039,FOAMZ #6039,Rare,1543,Dab,Diamond,,Aurora,10
+3,6132,FOAMZ #6132,Rare,1531,Cheers,Lime,Ice,Lemon Fizz,10
+3,6312,FOAMZ #6312,Common,5757,Lollipop,Peach,,Teal Wave,3.5
+3,6334,FOAMZ #6334,Rare,1919,Gram Rain,Mint,,Candy Crush,10
+3,6368,FOAMZ #6368,Common,5724,Noodle Slurp,Fire,,Mint Chip,3.5
+3,6588,FOAMZ #6588,Common,5763,Fat To Fit,Cloud,,Emerald City,3.5
+3,6642,FOAMZ #6642,Uncommon,3505,Love Boop,Tangerine,Coral,Teal Wave,5
+3,6774,FOAMZ #6774,Common,6818,Dab,Fire,,Pearl,3.5
+3,6802,FOAMZ #6802,Common,5843,Screen Wipe,Mint,,Candy Crush,3.5
+3,6887,FOAMZ #6887,Uncommon,2439,Busted,Fire,Sky,Bubble Tea,5
+3,6934,FOAMZ #6934,Uncommon,2884,Wen Lambo,Shiba,,Steel Blue,5
+3,7224,FOAMZ #7224,Epic,640,Dune Bash,Coral,,Royal Wine,25
+3,7384,FOAMZ #7384,Common,6188,Spooky Szn,Sky,,Pistachio,3.5
+3,7586,FOAMZ #7586,Uncommon,2957,Bottle Flip,Black Shiba,,Onyx,5
+3,7630,FOAMZ #7630,Common,7540,Love Boop,Grape,Sky,Teal Wave,3.5
+3,7831,FOAMZ #7831,Uncommon,3111,Buy The Dip,Fire,,Lavender Haze,5
+3,7870,FOAMZ #7870,Rare,1220,Fat To Fit,Holo,,Sunset Peel,10
+3,7955,FOAMZ #7955,Common,5795,Lollipop,Grape,,Onyx,3.5
+3,8396,FOAMZ #8396,Uncommon,2684,The Squeeze,Sky,,Grape Soda,5
+3,8713,FOAMZ #8713,Common,5869,Surf's Up,Diamond,,Deep Sea,3.5
+3,8838,FOAMZ #8838,Uncommon,2533,Screen Smash,Bubblegum,Bubblegum,Electric Violet,5
+3,8910,FOAMZ #8910,Legendary,162,Falcon,Bubblegum,,Sunset Peel,60
+3,9039,FOAMZ #9039,Rare,1951,Aura Farming,Holo,,Lemon Fizz,10
+3,9119,FOAMZ #9119,Rare,1628,Buy The Dip,Lime,,Candy Crush,10
+3,9171,FOAMZ #9171,Common,6968,Birthday Blowout,Ice,,Mint Chip,3.5
+3,9244,FOAMZ #9244,Rare,2081,Diamond Hands,Fire,,Emerald City,10
+3,9331,FOAMZ #9331,Uncommon,2970,GM Coffee,Chrome,,Tomato Soup,5
+3,9365,FOAMZ #9365,Rare,1517,Punch Out,Sky,Shiba,Lavender Haze,10
+3,9435,FOAMZ #9435,Epic,483,Max PR,Chrome,,Deep Sea,25
+3,9550,FOAMZ #9550,Common,5746,Surf's Up,Tangerine,,Fandango Pop,3.5
+3,9571,FOAMZ #9571,Rare,1521,Cheers,Coral,Shiba,Teal Wave,10
+3,9572,FOAMZ #9572,Uncommon,3046,Money Printer,Toxic,,Lavender Haze,5
+3,9648,FOAMZ #9648,Rare,1194,Busted,Mint,Black Shiba,Emerald City,10
+3,9785,FOAMZ #9785,Uncommon,2433,Noodle Slurp,Bubblegum,,Onyx,5
+3,9864,FOAMZ #9864,Common,6563,Diamond Hands,Holo,,Cherry Cola,3.5
+4,165,FOAMZ #165,Uncommon,3389,High Five,Shiba,Sky,Deep Sea,5
+4,665,FOAMZ #665,Uncommon,2418,Busted,Peach,Sky,Lemon Fizz,5
+4,753,FOAMZ #753,Common,5674,Beach Day,Grape,,Steel Blue,3.5
+4,990,FOAMZ #990,Uncommon,2449,Busted,Black Shiba,Tangerine,Electric Violet,5
+4,1307,FOAMZ #1307,Common,5734,Fat To Fit,Lemon,,Grape Soda,3.5
+4,1347,FOAMZ #1347,Uncommon,3107,Bottle Flip,Grape,,Electric Violet,5
+4,1497,FOAMZ #1497,Uncommon,2836,Deal With It,Chrome,,Tomato Soup,5
+4,1641,FOAMZ #1641,Uncommon,3096,Spooky Szn,Lemon,,Pearl,5
+4,1761,FOAMZ #1761,Common,5901,Glow Up,Coral,,Burgundy Velvet,3.5
+4,1773,FOAMZ #1773,Common,6175,Walk Away,Sky,,Steel Blue,3.5
+4,1999,FOAMZ #1999,Common,6893,Wen Lambo,Sky,,Sunset Peel,3.5
+4,2095,FOAMZ #2095,Uncommon,2465,Busted,Mint,Mint,Deep Sea,5
+4,2165,FOAMZ #2165,Epic,717,To The Moon,Chrome,,Bubble Tea,25
+4,2179,FOAMZ #2179,Common,6634,Airdrop,Midnight,,Emerald City,3.5
+4,2208,FOAMZ #2208,Epic,593,To The Moon,Toxic,,Tomato Soup,25
+4,2254,FOAMZ #2254,Rare,2022,To The Moon,Coral,,Electric Violet,10
+4,2384,FOAMZ #2384,Rare,1581,Smoke Rings,Gold,,Fandango Pop,10
+4,2394,FOAMZ #2394,Common,6627,Smoke Rings,Ice,,Electric Violet,3.5
+4,2399,FOAMZ #2399,Rare,1301,Screen Wipe,Cloud,,Grape Soda,10
+4,2612,FOAMZ #2612,Uncommon,3157,Bitcoin Bling,Sky,,Cappuccino,5
+4,2648,FOAMZ #2648,Uncommon,3100,Number Go Up,Grape,,Cappuccino,5
+4,2669,FOAMZ #2669,Uncommon,3792,To The Moon,Mint,,Electric Violet,5
+4,2717,FOAMZ #2717,Common,6660,To The Moon,Lemon,,Salmon Roll,3.5
+4,2835,FOAMZ #2835,Legendary,51,Cheers,Gold,Tangerine,Mint Chip,60
+4,2998,FOAMZ #2998,Epic,287,Wedding Day,Sky,Sky,Periwinkle,25
+4,3010,FOAMZ #3010,Uncommon,3183,Squeeze Out,Ice,,Periwinkle,5
+4,3103,FOAMZ #3103,Rare,1188,Swole Bros,Sky,Cloud,Lemon Fizz,10
+4,3251,FOAMZ #3251,Common,5722,Profit Mode,Peach,,Burgundy Velvet,3.5
+4,3255,FOAMZ #3255,Common,5683,Busted,Mint,Sky,Lemon Fizz,3.5
+4,3407,FOAMZ #3407,Common,6228,The Squeeze,Bubblegum,,Mint Chip,3.5
+4,3517,FOAMZ #3517,Rare,1513,Vibing,Toxic,,Steel Blue,10
+4,3721,FOAMZ #3721,Common,5682,Laser Duel,Tangerine,Midnight,Sunset Peel,3.5
+4,3803,FOAMZ #3803,Uncommon,3342,Love Boop,Sky,Diamond,Cappuccino,5
+4,3831,FOAMZ #3831,Rare,1441,Number Go Up,Coral,,Bubble Tea,10
+4,3976,FOAMZ #3976,Common,5798,Swole Bros,Coral,Mint,Teal Wave,3.5
+4,4054,FOAMZ #4054,Common,6538,Money Printer,Sky,,Grape Soda,3.5
+4,4079,FOAMZ #4079,Common,5701,Profit Mode,Lemon,,Sunset Peel,3.5
+4,4138,FOAMZ #4138,Epic,352,Swole Bros,Sky,Toxic,Night Mode,25
+4,4167,FOAMZ #4167,Uncommon,2768,Fat To Fit,Tangerine,,Cappuccino,5
+4,4182,FOAMZ #4182,Uncommon,2459,Lollipop,Toxic,,Lavender Haze,5
+4,4392,FOAMZ #4392,Rare,1773,Walk Away,Lime,,Black Hole,10
+4,4476,FOAMZ #4476,Rare,1502,Smoke Rings,Ice,,Lemon Fizz,10
+4,4498,FOAMZ #4498,Common,6002,Trophy Lift,Midnight,,Fandango Pop,3.5
+4,4514,FOAMZ #4514,Rare,1199,Couch Gamers,Tangerine,Lemon,Sunset Peel,10
+4,4534,FOAMZ #4534,Common,6570,Smoke Rings,Coral,,Sunset Peel,3.5
+4,4621,FOAMZ #4621,Uncommon,2849,Horse Dance,Black Shiba,,Onyx,5
+4,4668,FOAMZ #4668,Rare,1681,Everything's Fine,Fire,,Deep Sea,10
+4,4755,FOAMZ #4755,Uncommon,3213,Aura Farming,Black Shiba,,Deep Sea,5
+4,4861,FOAMZ #4861,Epic,512,Fat To Fit,Ice,,Black Gold,25
+4,4932,FOAMZ #4932,Uncommon,3289,Smoke Rings,Bubblegum,,Neon Night,5
+4,4934,FOAMZ #4934,Rare,1306,Scaredy Foam,Peach,,Candy Crush,10
+4,4947,FOAMZ #4947,Epic,521,Oud & Bakhoor,Cloud,,Neon Night,25
+4,5058,FOAMZ #5058,Common,6871,To The Moon,Lemon,,Salmon Roll,3.5
+4,5130,FOAMZ #5130,Uncommon,2846,Squeeze Out,Toxic,,Salmon Roll,5
+4,5458,FOAMZ #5458,Uncommon,2688,Profit Mode,Chrome,,Lemon Fizz,5
+4,5468,FOAMZ #5468,Rare,1564,Number Go Up,Shiba,,Electric Violet,10
+4,5473,FOAMZ #5473,Common,5788,Fat To Fit,Lemon,,Fandango Pop,3.5
+4,5547,FOAMZ #5547,Rare,1718,The Squeeze,Ice,,Neon Night,10
+4,5592,FOAMZ #5592,Uncommon,3305,Number Go Up,Fire,,Mint Chip,5
+4,5622,FOAMZ #5622,Uncommon,2979,Fat To Fit,Peach,,Salmon Roll,5
+4,5763,FOAMZ #5763,Common,5897,Profit Mode,Fire,,Deep Sea,3.5
+4,5798,FOAMZ #5798,Common,6034,Zen Mode,Bubblegum,,Lemon Fizz,3.5
+4,5822,FOAMZ #5822,Common,6459,Gram Rain,Black Shiba,,Salmon Roll,3.5
+4,5896,FOAMZ #5896,Rare,1661,The Squeeze,Midnight,,Cherry Cola,10
+4,5961,FOAMZ #5961,Uncommon,2456,Busted,Mint,Tangerine,Lavender Haze,5
+4,6221,FOAMZ #6221,Rare,1511,Bottle Flip,Grape,,Electric Violet,10
+4,6240,FOAMZ #6240,Uncommon,3170,Aura Farming,Galaxy,,Sunset Peel,5
+4,6264,FOAMZ #6264,Common,7527,Love Boop,Lime,Cloud,Deep Sea,3.5
+4,6602,FOAMZ #6602,Common,6006,Zen Mode,Tangerine,,Mint Chip,3.5
+4,6656,FOAMZ #6656,Rare,1428,Max PR,Fire,,Night Mode,10
+4,6846,FOAMZ #6846,Common,6825,Number Go Up,Midnight,,Onyx,3.5
+4,6886,FOAMZ #6886,Common,6294,Vibing,Toxic,,Salmon Roll,3.5
+4,7302,FOAMZ #7302,Common,6512,Floss,Grape,,Fandango Pop,3.5
+4,7368,FOAMZ #7368,Common,5820,Beach Day,Sky,,Sunset Peel,3.5
+4,7421,FOAMZ #7421,Uncommon,2978,Airdrop,Mint,,Salmon Roll,5
+4,7478,FOAMZ #7478,Rare,1761,Aura Farming,Lime,,Candy Crush,10
+4,7498,FOAMZ #7498,Uncommon,3494,Glow Up,Bubblegum,,Night Mode,5
+4,7653,FOAMZ #7653,Uncommon,3021,Everything's Fine,Grape,,Tomato Soup,5
+4,7790,FOAMZ #7790,Common,6400,Horse Dance,Coral,,Emerald City,3.5
+4,7852,FOAMZ #7852,Uncommon,2808,Spooky Szn,Shiba,,Fandango Pop,5
+4,8035,FOAMZ #8035,Common,5702,Beach Day,Black Shiba,,Emerald City,3.5
+4,8133,FOAMZ #8133,Common,6395,Horse Dance,Bubblegum,,Grape Soda,3.5
+4,8390,FOAMZ #8390,Legendary,49,Couch Gamers,Chrome,Sky,Royal Wine,60
+4,8488,FOAMZ #8488,Common,6260,Laser Duel,Cloud,Peach,Grape Soda,3.5
+4,8534,FOAMZ #8534,Uncommon,2415,Swole Bros,Coral,Galaxy,Mint Chip,5
+4,8616,FOAMZ #8616,Epic,332,Gold Souk,Tangerine,Bubblegum,Pearl,25
+4,8766,FOAMZ #8766,Common,6789,Money Printer,Lemon,,Lemon Fizz,3.5
+4,8906,FOAMZ #8906,Common,6164,GM Coffee,Chrome,,Deep Sea,3.5
+4,8965,FOAMZ #8965,Legendary,84,Shisha Chill,Sky,Mint,Electric Violet,60
+4,9019,FOAMZ #9019,Common,5693,Profit Mode,Shiba,,Mint Chip,3.5
+4,9099,FOAMZ #9099,Common,6730,Spooky Szn,Fire,,Cappuccino,3.5
+4,9300,FOAMZ #9300,Epic,934,Surf's Up,Peach,,Black Gold,25
+4,9335,FOAMZ #9335,Common,6496,Everything's Fine,Peach,,Fandango Pop,3.5
+4,9402,FOAMZ #9402,Epic,535,High Five,Grape,Galaxy,Lavender Haze,25
+4,9680,FOAMZ #9680,Uncommon,2930,Bottle Flip,Tangerine,,Candy Crush,5
+4,9703,FOAMZ #9703,Common,6846,To The Moon,Cloud,,Electric Violet,3.5
+4,9809,FOAMZ #9809,Uncommon,3332,Horse Dance,Tangerine,,Mint Chip,5
+4,9812,FOAMZ #9812,Rare,1542,To The Moon,Lemon,,Pistachio,10
+4,9826,FOAMZ #9826,Common,5809,Swole Bros,Lemon,Peach,Bubble Tea,3.5
+4,9851,FOAMZ #9851,Common,6277,Gram Rain,Ice,,Cappuccino,3.5
+5,171,FOAMZ #171,Rare,1736,Floss,Chrome,,Pistachio,10
+5,190,FOAMZ #190,Rare,1459,Bitcoin Bling,Galaxy,,Pistachio,10
+5,300,FOAMZ #300,Epic,515,Cheers,Chrome,Toxic,Steel Blue,25
+5,344,FOAMZ #344,Uncommon,2429,Swole Bros,Bubblegum,Tangerine,Sunset Peel,5
+5,366,FOAMZ #366,Common,5848,Surf's Up,Bubblegum,,Burgundy Velvet,3.5
+5,684,FOAMZ #684,Uncommon,3381,Bitcoin Bling,Midnight,,Bubble Tea,5
+5,722,FOAMZ #722,Rare,1583,Horse Dance,Shiba,,Gold Rush,10
+5,798,FOAMZ #798,Common,6764,Floss,Galaxy,,Teal Wave,3.5
+5,874,FOAMZ #874,Common,6719,Money Printer,Coral,,Periwinkle,3.5
+5,991,FOAMZ #991,Epic,954,Karak Time,Lime,,Sunset Peel,25
+5,1068,FOAMZ #1068,Common,5672,Keepy Uppy,Shiba,,Tomato Soup,3.5
+5,1330,FOAMZ #1330,Uncommon,2956,Walk Away,Lime,,Aurora,5
+5,1552,FOAMZ #1552,Uncommon,2932,GM Coffee,Shiba,,Teal Wave,5
+5,1587,FOAMZ #1587,Common,6528,Spooky Szn,Coral,,Sunset Peel,3.5
+5,1680,FOAMZ #1680,Uncommon,3034,Gram Rain,Mint,,Emerald City,5
+5,1734,FOAMZ #1734,Rare,1694,Aura Farming,Coral,,Mint Chip,10
+5,1805,FOAMZ #1805,Uncommon,3093,Diamond Hands,Bubblegum,,Lemon Fizz,5
+5,1909,FOAMZ #1909,Common,6271,Squeeze Out,Coral,,Grape Soda,3.5
+5,2215,FOAMZ #2215,Uncommon,2720,Profit Mode,Chrome,,Steel Blue,5
+5,2374,FOAMZ #2374,Common,7488,Love Boop,Cloud,Mint,Deep Sea,3.5
+5,2402,FOAMZ #2402,Uncommon,2982,Diamond Hands,Lemon,,Bubble Tea,5
+5,2423,FOAMZ #2423,Epic,525,High Five,Ice,Lime,Deep Sea,25
+5,2693,FOAMZ #2693,Uncommon,2784,GM Coffee,Coral,,Mint Chip,5
+5,3117,FOAMZ #3117,Rare,1911,Everything's Fine,Cloud,,Candy Crush,10
+5,3176,FOAMZ #3176,Common,6540,Diamond Hands,Peach,,Lemon Fizz,3.5
+5,3213,FOAMZ #3213,Rare,1189,Screen Smash,Grape,Peach,Steel Blue,10
+5,3353,FOAMZ #3353,Uncommon,2484,Fat To Fit,Lime,,Salmon Roll,5
+5,3380,FOAMZ #3380,Uncommon,2951,The Squeeze,Ice,,Cappuccino,5
+5,3522,FOAMZ #3522,Rare,1585,Wen Lambo,Chrome,,Pearl,10
+5,3718,FOAMZ #3718,Rare,1177,Swole Bros,Peach,Peach,Lavender Haze,10
+5,4064,FOAMZ #4064,Uncommon,2668,Zen Mode,Midnight,,Lemon Fizz,5
+5,4209,FOAMZ #4209,Epic,353,Swole Bros,Bubblegum,Midnight,Aurora,25
+5,4315,FOAMZ #4315,Uncommon,3011,Birthday Blowout,Holo,,Grape Soda,5
+5,4453,FOAMZ #4453,Uncommon,3478,High Five,Lemon,Lemon,Deep Sea,5
+5,4529,FOAMZ #4529,Uncommon,3318,Love Boop,Sky,Shiba,Sunset Peel,5
+5,4577,FOAMZ #4577,Common,5829,Surf's Up,Cloud,,Mint Chip,3.5
+5,4635,FOAMZ #4635,Uncommon,2966,Chill Flames,Black Shiba,,Tomato Soup,5
+5,4636,FOAMZ #4636,Epic,366,Swole Bros,Gold,Bubblegum,Aurora,25
+5,4856,FOAMZ #4856,Rare,1362,Gram Rain,Cloud,,Candy Crush,10
+5,4987,FOAMZ #4987,Common,6757,Gram Rain,Mint,,Pearl,3.5
+5,5264,FOAMZ #5264,Epic,414,Laser Duel,Sky,Bubblegum,Emerald City,25
+5,5443,FOAMZ #5443,Uncommon,2859,Horse Dance,Coral,,Cherry Cola,5
+5,5448,FOAMZ #5448,Legendary,245,Fat To Fit,Coral,,Black Gold,60
+5,5558,FOAMZ #5558,Rare,1941,Vibing,Coral,,Cappuccino,10
+5,5585,FOAMZ #5585,Uncommon,2481,Scaredy Foam,Lemon,,Sunset Peel,5
+5,5594,FOAMZ #5594,Common,6596,Airdrop,Shiba,,Electric Violet,3.5
+5,5663,FOAMZ #5663,Uncommon,2566,Screen Smash,Mint,Peach,Mint Chip,5
+5,5871,FOAMZ #5871,Common,6282,Everything's Fine,Fire,,Teal Wave,3.5
+5,5907,FOAMZ #5907,Common,6899,Smoke Rings,Cloud,,Emerald City,3.5
+5,5948,FOAMZ #5948,Uncommon,2891,Everything's Fine,Coral,,Onyx,5
+5,5973,FOAMZ #5973,Common,5688,Noodle Slurp,Tangerine,,Mint Chip,3.5
+5,6001,FOAMZ #6001,Common,6824,Bottle Flip,Ice,,Deep Sea,3.5
+5,6009,FOAMZ #6009,Common,5814,Trophy Lift,Lime,,Fandango Pop,3.5
+5,6040,FOAMZ #6040,Common,6327,Walk Away,Grape,,Deep Sea,3.5
+5,6059,FOAMZ #6059,Common,5765,Busted,Lime,Tangerine,Periwinkle,3.5
+5,6113,FOAMZ #6113,Uncommon,2569,Trophy Lift,Bubblegum,,Fandango Pop,5
+5,6266,FOAMZ #6266,Uncommon,3088,Floss,Midnight,,Cherry Cola,5
+5,6295,FOAMZ #6295,Common,6393,Smoke Rings,Sky,,Salmon Roll,3.5
+5,6372,FOAMZ #6372,Legendary,30,Love Boop,Coral,Diamond,Black Hole,60
+5,6429,FOAMZ #6429,Common,6322,Everything's Fine,Tangerine,,Steel Blue,3.5
+5,6684,FOAMZ #6684,Rare,1609,Money Printer,Chrome,,Tomato Soup,10
+5,6690,FOAMZ #6690,Uncommon,2448,Screen Smash,Lime,Cloud,Sunset Peel,5
+5,6722,FOAMZ #6722,Rare,1185,Busted,Fire,Midnight,Teal Wave,10
+5,6773,FOAMZ #6773,Common,5776,Swole Bros,Lemon,Lime,Cherry Cola,3.5
+5,6781,FOAMZ #6781,Common,6337,Walk Away,Fire,,Deep Sea,3.5
+5,6916,FOAMZ #6916,Rare,1477,Everything's Fine,Toxic,,Lavender Haze,10
+5,7208,FOAMZ #7208,Common,7575,High Five,Grape,Mint,Periwinkle,3.5
+5,7232,FOAMZ #7232,Common,6200,Bottle Flip,Coral,,Deep Sea,3.5
+5,7425,FOAMZ #7425,Common,5913,Fat To Fit,Shiba,,Sunset Peel,3.5
+5,7471,FOAMZ #7471,Common,6844,Bitcoin Bling,Chrome,,Cappuccino,3.5
+5,7577,FOAMZ #7577,Common,5690,Busted,Tangerine,Tangerine,Bubble Tea,3.5
+5,7590,FOAMZ #7590,Uncommon,2868,Aura Farming,Ice,,Sunset Peel,5
+5,7607,FOAMZ #7607,Uncommon,2850,Dab,Chrome,,Lemon Fizz,5
+5,7644,FOAMZ #7644,Uncommon,2959,Squeeze Out,Grape,,Pistachio,5
+5,7741,FOAMZ #7741,Rare,1673,Horse Dance,Shiba,,Pearl,10
+5,7771,FOAMZ #7771,Common,7000,Chill Flames,Lime,,Bubble Tea,3.5
+5,7961,FOAMZ #7961,Common,6527,Wen Lambo,Lime,,Fandango Pop,3.5
+5,8175,FOAMZ #8175,Epic,363,Screen Smash,Black Shiba,Sky,Cherry Cola,25
+5,8353,FOAMZ #8353,Common,6592,Gram Rain,Peach,,Grape Soda,3.5
+5,8362,FOAMZ #8362,Epic,524,Cheers,Coral,Grape,Periwinkle,25
+5,8383,FOAMZ #8383,Rare,1225,Lollipop,Galaxy,,Cappuccino,10
+5,8546,FOAMZ #8546,Common,6265,Aura Farming,Coral,,Onyx,3.5
+5,8594,FOAMZ #8594,Rare,1558,Airdrop,Midnight,,Pistachio,10
+5,8691,FOAMZ #8691,Uncommon,3178,Horse Dance,Coral,,Neon Night,5
+5,8726,FOAMZ #8726,Common,5670,Keepy Uppy,Midnight,,Salmon Roll,3.5
+5,8888,FOAMZ #8888,Rare,1515,Squeeze Out,Ice,,Neon Night,10
+5,8936,FOAMZ #8936,Uncommon,2486,Beach Day,Fire,,Royal Wine,5
+5,9058,FOAMZ #9058,Epic,621,Everything's Fine,Coral,,Candy Crush,25
+5,9068,FOAMZ #9068,Uncommon,2976,Spooky Szn,Galaxy,,Lemon Fizz,5
+5,9089,FOAMZ #9089,Common,5686,Scaredy Foam,Bubblegum,,Cappuccino,3.5
+5,9139,FOAMZ #9139,Common,6371,Squeeze Out,Mint,,Teal Wave,3.5
+5,9466,FOAMZ #9466,Common,7977,Love Boop,Peach,Tangerine,Grape Soda,3.5
+5,9467,FOAMZ #9467,Common,7195,Punch Out,Sky,Sky,Electric Violet,3.5
+5,9470,FOAMZ #9470,Common,6618,Money Printer,Ice,,Pistachio,3.5
+5,9587,FOAMZ #9587,Common,5684,Glow Up,Shiba,,Night Mode,3.5
+5,9724,FOAMZ #9724,Rare,1763,Rug Pull,Tangerine,,Fandango Pop,10
+5,9760,FOAMZ #9760,Common,6071,Vibing,Peach,,Tomato Soup,3.5
+5,9761,FOAMZ #9761,Uncommon,3092,GM Coffee,Holo,,Deep Sea,5
+5,9784,FOAMZ #9784,Legendary,208,Wanderlust,Lime,,Lavender Haze,60
+5,9936,FOAMZ #9936,Common,5706,Noodle Slurp,Lemon,,Deep Sea,3.5
+6,105,FOAMZ #105,Common,5687,Max PR,Cloud,,Pistachio,3.5
+6,116,FOAMZ #116,Common,5718,Scaredy Foam,Chrome,,Salmon Roll,3.5
+6,146,FOAMZ #146,Uncommon,3073,Diamond Hands,Ice,,Salmon Roll,5
+6,211,FOAMZ #211,Legendary,66,Punch Out,Diamond,Toxic,Pearl,60
+6,222,FOAMZ #222,Uncommon,3162,Rug Pull,Bubblegum,,Cappuccino,5
+6,267,FOAMZ #267,Uncommon,2747,Beach Day,Galaxy,,Pearl,5
+6,354,FOAMZ #354,Common,6491,Spooky Szn,Coral,,Fandango Pop,3.5
+6,468,FOAMZ #468,Common,6971,Chill Flames,Cloud,,Deep Sea,3.5
+6,473,FOAMZ #473,Common,5808,Trophy Lift,Cloud,,Sunset Peel,3.5
+6,669,FOAMZ #669,Common,6208,Everything's Fine,Grape,,Cherry Cola,3.5
+6,980,FOAMZ #980,Uncommon,2635,Fat To Fit,Peach,,Cappuccino,5
+6,1029,FOAMZ #1029,Common,7245,Love Boop,Peach,Cloud,Pistachio,3.5
+6,1048,FOAMZ #1048,Uncommon,2988,Dab,Grape,,Candy Crush,5
+6,1122,FOAMZ #1122,Common,6319,Vibing,Shiba,,Onyx,3.5
+6,1235,FOAMZ #1235,Rare,1600,GM Coffee,Toxic,,Candy Crush,10
+6,1398,FOAMZ #1398,Uncommon,3435,To The Moon,Cloud,,Deep Sea,5
+6,1445,FOAMZ #1445,Uncommon,2958,Squeeze Out,Bubblegum,,Sunset Peel,5
+6,1510,FOAMZ #1510,Legendary,204,Dune Bash,Tangerine,,Deep Sea,60
+6,1652,FOAMZ #1652,Common,5859,Screen Wipe,Toxic,,Lemon Fizz,3.5
+6,1653,FOAMZ #1653,Uncommon,2880,Bitcoin Bling,Lemon,,Pistachio,5
+6,1858,FOAMZ #1858,Common,5679,Max PR,Tangerine,,Bubble Tea,3.5
+6,1871,FOAMZ #1871,Uncommon,2644,Beach Day,Bubblegum,,Lavender Haze,5
+6,1896,FOAMZ #1896,Rare,1527,Bottle Flip,Cloud,,Onyx,10
+6,1947,FOAMZ #1947,Epic,421,Dune Bash,Fire,,Royal Wine,25
+6,1986,FOAMZ #1986,Rare,1897,Number Go Up,Chrome,,Emerald City,10
+6,2048,FOAMZ #2048,Rare,1578,Chill Flames,Tangerine,,Cappuccino,10
+6,2086,FOAMZ #2086,Epic,642,Bottle Flip,Gold,,Steel Blue,25
+6,2121,FOAMZ #2121,Epic,689,To The Moon,Tangerine,,Lavender Haze,25
+6,2251,FOAMZ #2251,Uncommon,2829,Max PR,Holo,,Mint Chip,5
+6,2263,FOAMZ #2263,Uncommon,2907,The Squeeze,Black Shiba,,Periwinkle,5
+6,2275,FOAMZ #2275,Rare,1224,Trophy Lift,Shiba,,Pistachio,10
+6,2517,FOAMZ #2517,Rare,1467,Screen Wipe,Toxic,,Burgundy Velvet,10
+6,2641,FOAMZ #2641,Rare,1522,Vibing,Ice,,Aurora,10
+6,2742,FOAMZ #2742,Common,6011,Zen Mode,Cloud,,Grape Soda,3.5
+6,2753,FOAMZ #2753,Uncommon,2875,Gram Rain,Lemon,,Fandango Pop,5
+6,3144,FOAMZ #3144,Common,6479,Aura Farming,Toxic,,Fandango Pop,3.5
+6,3378,FOAMZ #3378,Common,6253,Smoke Rings,Lemon,,Steel Blue,3.5
+6,3443,FOAMZ #3443,Rare,1584,Bottle Flip,Bubblegum,,Tomato Soup,10
+6,3451,FOAMZ #3451,Uncommon,2922,Aura Farming,Black Shiba,,Lavender Haze,5
+6,3700,FOAMZ #3700,Common,6151,Laser Duel,Mint,Lime,Fandango Pop,3.5
+6,3810,FOAMZ #3810,Common,6755,Floss,Ice,,Steel Blue,3.5
+6,3820,FOAMZ #3820,Common,6281,Squeeze Out,Peach,,Sunset Peel,3.5
+6,3942,FOAMZ #3942,Common,6088,Zen Mode,Coral,,Pistachio,3.5
+6,4013,FOAMZ #4013,Common,6384,Dab,Sky,,Sunset Peel,3.5
+6,4017,FOAMZ #4017,Common,5813,Profit Mode,Toxic,,Pistachio,3.5
+6,4139,FOAMZ #4139,Epic,404,Couch Gamers,Peach,Grape,Burgundy Velvet,25
+6,4307,FOAMZ #4307,Common,7413,Rug Pull,Lemon,,Emerald City,3.5
+6,4472,FOAMZ #4472,Common,5738,Trophy Lift,Tangerine,,Cherry Cola,3.5
+6,4706,FOAMZ #4706,Uncommon,3290,Gram Rain,Fire,,Candy Crush,5
+6,4778,FOAMZ #4778,Uncommon,2801,Gram Rain,Shiba,,Cappuccino,5
+6,4873,FOAMZ #4873,Common,6636,Rug Pull,Black Shiba,,Cherry Cola,3.5
+6,4877,FOAMZ #4877,Rare,1675,Squeeze Out,Gold,,Grape Soda,10
+6,5208,FOAMZ #5208,Common,5764,Couch Gamers,Peach,Bubblegum,Teal Wave,3.5
+6,5298,FOAMZ #5298,Rare,1510,Wen Lambo,Grape,,Lavender Haze,10
+6,5432,FOAMZ #5432,Uncommon,3138,Floss,Fire,,Cherry Cola,5
+6,5465,FOAMZ #5465,Common,7067,High Five,Ice,Sky,Mint Chip,3.5
+6,5475,FOAMZ #5475,Common,6808,Spooky Szn,Midnight,,Fandango Pop,3.5
+6,5489,FOAMZ #5489,Common,5715,Surf's Up,Tangerine,,Salmon Roll,3.5
+6,5532,FOAMZ #5532,Common,5850,Screen Wipe,Midnight,,Lemon Fizz,3.5
+6,5560,FOAMZ #5560,Uncommon,2416,Keepy Uppy,Cloud,,Teal Wave,5
+6,5694,FOAMZ #5694,Uncommon,2915,Aura Farming,Diamond,,Mint Chip,5
+6,5797,FOAMZ #5797,Rare,1699,Number Go Up,Toxic,,Mint Chip,10
+6,5877,FOAMZ #5877,Rare,1425,Money Printer,Toxic,,Periwinkle,10
+6,5884,FOAMZ #5884,Rare,1237,Couch Gamers,Lime,Lime,Sunset Peel,10
+6,5909,FOAMZ #5909,Uncommon,2674,Scaredy Foam,Bubblegum,,Mint Chip,5
+6,5955,FOAMZ #5955,Common,5703,Scaredy Foam,Chrome,,Grape Soda,3.5
+6,5988,FOAMZ #5988,Common,5796,Screen Wipe,Lime,,Cherry Cola,3.5
+6,6063,FOAMZ #6063,Uncommon,2409,Swole Bros,Grape,Sky,Onyx,5
+6,6109,FOAMZ #6109,Common,6305,Walk Away,Midnight,,Fandango Pop,3.5
+6,6143,FOAMZ #6143,Epic,638,Everything's Fine,Black Shiba,,Black Hole,25
+6,6228,FOAMZ #6228,Uncommon,2694,Zen Mode,Ice,,Sunset Peel,5
+6,6324,FOAMZ #6324,Common,5691,Busted,Tangerine,Coral,Bubble Tea,3.5
+6,6439,FOAMZ #6439,Uncommon,3546,Love Boop,Galaxy,Midnight,Lemon Fizz,5
+6,6457,FOAMZ #6457,Common,5816,Fat To Fit,Peach,,Aurora,3.5
+6,6682,FOAMZ #6682,Rare,1929,Walk Away,Black Shiba,,Lavender Haze,10
+6,7120,FOAMZ #7120,Uncommon,2905,Money Printer,Peach,,Periwinkle,5
+6,7153,FOAMZ #7153,Uncommon,2910,Airdrop,Grape,,Teal Wave,5
+6,7183,FOAMZ #7183,Common,6631,Dab,Black Shiba,,Mint Chip,3.5
+6,7807,FOAMZ #7807,Epic,517,Punch Out,Tangerine,Galaxy,Teal Wave,25
+6,7867,FOAMZ #7867,Common,6543,Horse Dance,Grape,,Periwinkle,3.5
+6,7937,FOAMZ #7937,Uncommon,2420,Swole Bros,Lime,Mint,Pistachio,5
+6,7977,FOAMZ #7977,Common,5856,Screen Wipe,Fire,,Cappuccino,3.5
+6,8053,FOAMZ #8053,Uncommon,2964,Squeeze Out,Coral,,Teal Wave,5
+6,8147,FOAMZ #8147,Rare,1523,Gram Rain,Lemon,,Periwinkle,10
+6,8250,FOAMZ #8250,Common,5735,Busted,Sky,Tangerine,Teal Wave,3.5
+6,8296,FOAMZ #8296,Epic,1041,Lollipop,Lemon,,Black Gold,25
+6,8358,FOAMZ #8358,Rare,1551,Everything's Fine,Mint,,Tomato Soup,10
+6,8529,FOAMZ #8529,Common,6544,Airdrop,Chrome,,Deep Sea,3.5
+6,8614,FOAMZ #8614,Uncommon,3006,Number Go Up,Sky,,Candy Crush,5
+6,8727,FOAMZ #8727,Uncommon,2714,Profit Mode,Fire,,Mint Chip,5
+6,8841,FOAMZ #8841,Epic,646,Smoke Rings,Ice,,Salmon Roll,25
+6,9008,FOAMZ #9008,Common,7578,Rug Pull,Lemon,,Electric Violet,3.5
+6,9108,FOAMZ #9108,Common,5699,Noodle Slurp,Mint,,Mint Chip,3.5
+6,9109,FOAMZ #9109,Uncommon,2520,Screen Smash,Cloud,Sky,Cherry Cola,5
+6,9325,FOAMZ #9325,Rare,1255,Scaredy Foam,Midnight,,Grape Soda,10
+6,9348,FOAMZ #9348,Epic,337,Gold Souk,Lime,Cloud,Fandango Pop,25
+6,9676,FOAMZ #9676,Common,5761,Laser Duel,Shiba,Sky,Lemon Fizz,3.5
+6,9686,FOAMZ #9686,Epic,709,Spooky Szn,Fire,,Fandango Pop,25
+6,9752,FOAMZ #9752,Rare,1426,Dab,Peach,,Gold Rush,10
+6,9758,FOAMZ #9758,Uncommon,2948,Smoke Rings,Cloud,,Periwinkle,5
+7,147,FOAMZ #147,Uncommon,3076,The Squeeze,Lime,,Bubble Tea,5
+7,326,FOAMZ #326,Common,6619,Everything's Fine,Midnight,,Electric Violet,3.5
+7,358,FOAMZ #358,Legendary,205,Screen Wipe,Lemon,,Black Gold,60
+7,414,FOAMZ #414,Epic,509,Cheers,Coral,Grape,Fandango Pop,25
+7,511,FOAMZ #511,Uncommon,2802,Beach Day,Chrome,,Tomato Soup,5
+7,538,FOAMZ #538,Common,6929,Punch Out,Shiba,Lime,Periwinkle,3.5
+7,638,FOAMZ #638,Common,7307,High Five,Mint,Coral,Grape Soda,3.5
+7,1043,FOAMZ #1043,Rare,1852,Buy The Dip,Bubblegum,,Steel Blue,10
+7,1148,FOAMZ #1148,Epic,361,Laser Duel,Fire,Lime,Lemon Fizz,25
+7,1222,FOAMZ #1222,Common,6471,Bitcoin Bling,Chrome,,Fandango Pop,3.5
+7,1252,FOAMZ #1252,Uncommon,2622,Max PR,Shiba,,Teal Wave,5
+7,1628,FOAMZ #1628,Rare,1548,High Five,Lemon,Lemon,Steel Blue,10
+7,1674,FOAMZ #1674,Rare,1649,Wen Lambo,Grape,,Pearl,10
+7,1895,FOAMZ #1895,Rare,1339,Noodle Slurp,Peach,,Lemon Fizz,10
+7,2112,FOAMZ #2112,Common,6536,Deal With It,Shiba,,Steel Blue,3.5
+7,2118,FOAMZ #2118,Common,6061,Zen Mode,Grape,,Salmon Roll,3.5
+7,2134,FOAMZ #2134,Common,7211,Wen Lambo,Shiba,,Cherry Cola,3.5
+7,2209,FOAMZ #2209,Rare,1246,Noodle Slurp,Chrome,,Pistachio,10
+7,2216,FOAMZ #2216,Uncommon,3875,Wen Lambo,Gold,,Deep Sea,5
+7,2237,FOAMZ #2237,Common,7342,Punch Out,Coral,Peach,Salmon Roll,3.5
+7,2250,FOAMZ #2250,Uncommon,2925,Screen Wipe,Coral,,Sunset Peel,5
+7,2509,FOAMZ #2509,Common,6498,Buy The Dip,Chrome,,Sunset Peel,3.5
+7,2527,FOAMZ #2527,Common,6530,Birthday Blowout,Peach,,Pistachio,3.5
+7,2568,FOAMZ #2568,Uncommon,2833,Rug Pull,Tangerine,,Periwinkle,5
+7,2593,FOAMZ #2593,Common,6469,Buy The Dip,Sky,,Lemon Fizz,3.5
+7,2619,FOAMZ #2619,Epic,359,Couch Gamers,Gold,Peach,Candy Crush,25
+7,2734,FOAMZ #2734,Uncommon,2770,GM Coffee,Grape,,Teal Wave,5
+7,2842,FOAMZ #2842,Uncommon,2953,Surf's Up,Peach,,Pistachio,5
+7,3031,FOAMZ #3031,Epic,532,Birthday Blowout,Chrome,,Pearl,25
+7,3201,FOAMZ #3201,Common,6399,Dab,Fire,,Emerald City,3.5
+7,3236,FOAMZ #3236,Uncommon,3379,Deal With It,Ice,,Steel Blue,5
+7,3286,FOAMZ #3286,Common,6264,Diamond Hands,Fire,,Electric Violet,3.5
+7,3600,FOAMZ #3600,Uncommon,2648,Profit Mode,Sky,,Emerald City,5
+7,3917,FOAMZ #3917,Common,5978,Laser Duel,Lime,Sky,Cappuccino,3.5
+7,4031,FOAMZ #4031,Uncommon,3413,Punch Out,Bubblegum,Sky,Mint Chip,5
+7,4040,FOAMZ #4040,Rare,1747,Airdrop,Grape,,Tomato Soup,10
+7,4127,FOAMZ #4127,Common,5877,Profit Mode,Grape,,Periwinkle,3.5
+7,4191,FOAMZ #4191,Rare,1528,Chill Flames,Gold,,Aurora,10
+7,4251,FOAMZ #4251,Common,6950,Birthday Blowout,Cloud,,Candy Crush,3.5
+7,4324,FOAMZ #4324,Uncommon,2781,Everything's Fine,Coral,,Sunset Peel,5
+7,4499,FOAMZ #4499,Common,7240,Money Printer,Black Shiba,,Cherry Cola,3.5
+7,4620,FOAMZ #4620,Uncommon,2417,Swole Bros,Midnight,Tangerine,Periwinkle,5
+7,4641,FOAMZ #4641,Rare,1195,Keepy Uppy,Holo,,Electric Violet,10
+7,4649,FOAMZ #4649,Common,6159,GM Coffee,Midnight,,Cherry Cola,3.5
+7,4704,FOAMZ #4704,Legendary,33,Habibi,Mint,Tangerine,Teal Wave,60
+7,4707,FOAMZ #4707,Uncommon,2441,Noodle Slurp,Chrome,,Salmon Roll,5
+7,4908,FOAMZ #4908,Uncommon,2667,Lollipop,Holo,,Lemon Fizz,5
+7,4955,FOAMZ #4955,Common,5812,Couch Gamers,Lime,Mint,Grape Soda,3.5
+7,5268,FOAMZ #5268,Uncommon,2771,Max PR,Lemon,,Bubble Tea,5
+7,5396,FOAMZ #5396,Rare,1874,Bitcoin Bling,Midnight,,Deep Sea,10
+7,5548,FOAMZ #5548,Common,5853,Fat To Fit,Galaxy,,Pistachio,3.5
+7,5625,FOAMZ #5625,Rare,1240,Couch Gamers,Tangerine,Lime,Salmon Roll,10
+7,5823,FOAMZ #5823,Epic,311,Habibi,Lime,Cloud,Neon Night,25
+7,6091,FOAMZ #6091,Rare,2147,To The Moon,Sky,,Black Hole,10
+7,6122,FOAMZ #6122,Uncommon,2428,Couch Gamers,Tangerine,Midnight,Sunset Peel,5
+7,6195,FOAMZ #6195,Common,6450,Squeeze Out,Bubblegum,,Cherry Cola,3.5
+7,6249,FOAMZ #6249,Common,6293,The Squeeze,Shiba,,Emerald City,3.5
+7,6478,FOAMZ #6478,Uncommon,2410,Couch Gamers,Sky,Coral,Teal Wave,5
+7,6539,FOAMZ #6539,Uncommon,2877,Fat To Fit,Tangerine,,Lemon Fizz,5
+7,6583,FOAMZ #6583,Common,5775,Couch Gamers,Cloud,Cloud,Bubble Tea,3.5
+7,6632,FOAMZ #6632,Common,6966,Wen Lambo,Lime,,Mint Chip,3.5
+7,6647,FOAMZ #6647,Uncommon,2912,Walk Away,Holo,,Mint Chip,5
+7,6681,FOAMZ #6681,Common,6433,Gram Rain,Toxic,,Cherry Cola,3.5
+7,6686,FOAMZ #6686,Common,6306,Number Go Up,Coral,,Periwinkle,3.5
+7,6698,FOAMZ #6698,Common,6441,Horse Dance,Tangerine,,Cherry Cola,3.5
+7,6710,FOAMZ #6710,Common,5748,Couch Gamers,Cloud,Mint,Fandango Pop,3.5
+7,6801,FOAMZ #6801,Common,5728,Noodle Slurp,Mint,,Grape Soda,3.5
+7,6821,FOAMZ #6821,Uncommon,3227,Wen Lambo,Midnight,,Deep Sea,5
+7,7214,FOAMZ #7214,Epic,664,Wen Lambo,Peach,,Grape Soda,25
+7,7529,FOAMZ #7529,Rare,1810,Horse Dance,Bubblegum,,Black Hole,10
+7,7551,FOAMZ #7551,Uncommon,2898,Gram Rain,Tangerine,,Periwinkle,5
+7,7592,FOAMZ #7592,Rare,1560,Love Boop,Ice,Lime,Mint Chip,10
+7,7603,FOAMZ #7603,Uncommon,3432,Bitcoin Bling,Galaxy,,Teal Wave,5
+7,7681,FOAMZ #7681,Epic,889,Dubai Selfie,Bubblegum,,Periwinkle,25
+7,7802,FOAMZ #7802,Common,6180,Deal With It,Black Shiba,,Teal Wave,3.5
+7,7882,FOAMZ #7882,Uncommon,2926,Diamond Hands,Shiba,,Lemon Fizz,5
+7,7909,FOAMZ #7909,Rare,1501,Smoke Rings,Bubblegum,,Onyx,10
+7,8219,FOAMZ #8219,Common,6100,Glow Up,Holo,,Cappuccino,3.5
+7,8484,FOAMZ #8484,Uncommon,2436,Couch Gamers,Cloud,Chrome,Fandango Pop,5
+7,8540,FOAMZ #8540,Rare,1182,Laser Duel,Sky,Midnight,Teal Wave,10
+7,8569,FOAMZ #8569,Epic,410,Couch Gamers,Lemon,Black Shiba,Bubble Tea,25
+7,8633,FOAMZ #8633,Common,5855,Screen Wipe,Black Shiba,,Cherry Cola,3.5
+7,8671,FOAMZ #8671,Uncommon,2894,Everything's Fine,Toxic,,Onyx,5
+7,8744,FOAMZ #8744,Uncommon,3168,GM Coffee,Chrome,,Sunset Peel,5
+7,8959,FOAMZ #8959,Rare,1508,Dab,Peach,,Candy Crush,10
+7,9006,FOAMZ #9006,Rare,1576,Love Boop,Black Shiba,Tangerine,Fandango Pop,10
+7,9040,FOAMZ #9040,Uncommon,2551,Screen Wipe,Lime,,Grape Soda,5
+7,9092,FOAMZ #9092,Uncommon,3341,Rug Pull,Midnight,,Fandango Pop,5
+7,9178,FOAMZ #9178,Common,7291,Rug Pull,Sky,,Salmon Roll,3.5
+7,9303,FOAMZ #9303,Common,7694,Love Boop,Bubblegum,Sky,Deep Sea,3.5
+7,9308,FOAMZ #9308,Epic,658,Aura Farming,Black Shiba,,Steel Blue,25
+7,9486,FOAMZ #9486,Common,7435,Money Printer,Fire,,Cherry Cola,3.5
+7,9762,FOAMZ #9762,Uncommon,3038,Buy The Dip,Toxic,,Fandango Pop,5
+7,9805,FOAMZ #9805,Common,5727,Trophy Lift,Sky,,Lemon Fizz,3.5
+7,9834,FOAMZ #9834,Common,6276,Buy The Dip,Coral,,Periwinkle,3.5
+7,9854,FOAMZ #9854,Common,5909,Fat To Fit,Peach,,Salmon Roll,3.5
+7,9872,FOAMZ #9872,Common,6753,Number Go Up,Coral,,Salmon Roll,3.5
+7,9912,FOAMZ #9912,Rare,1389,Spooky Szn,Toxic,,Onyx,10
+7,9948,FOAMZ #9948,Common,6613,The Squeeze,Grape,,Tomato Soup,3.5
+7,9996,FOAMZ #9996,Epic,465,Profit Mode,Holo,,Salmon Roll,25
+8,19,FOAMZ #19,Common,6324,Bitcoin Bling,Tangerine,,Grape Soda,3.5
+8,195,FOAMZ #195,Rare,1300,Trophy Lift,Peach,,Steel Blue,10
+8,307,FOAMZ #307,Common,6160,Walk Away,Coral,,Teal Wave,3.5
+8,315,FOAMZ #315,Common,6374,Floss,Bubblegum,,Deep Sea,3.5
+8,359,FOAMZ #359,Common,5785,Surf's Up,Bubblegum,,Lemon Fizz,3.5
+8,368,FOAMZ #368,Uncommon,2534,Noodle Slurp,Sky,,Pistachio,5
+8,460,FOAMZ #460,Uncommon,2852,Gram Rain,Gold,,Candy Crush,5
+8,486,FOAMZ #486,Uncommon,3498,Cheers,Coral,Toxic,Salmon Roll,5
+8,564,FOAMZ #564,Epic,286,Wedding Day,Black Shiba,Lime,Steel Blue,25
+8,656,FOAMZ #656,Uncommon,2803,Wanderlust,Galaxy,,Teal Wave,5
+8,793,FOAMZ #793,Common,5695,Couch Gamers,Bubblegum,Lime,Mint Chip,3.5
+8,829,FOAMZ #829,Common,7516,Cheers,Bubblegum,Lime,Teal Wave,3.5
+8,903,FOAMZ #903,Rare,1530,Cheers,Cloud,Chrome,Lemon Fizz,10
+8,1080,FOAMZ #1080,Common,6369,Bottle Flip,Toxic,,Mint Chip,3.5
+8,1169,FOAMZ #1169,Common,5799,Beach Day,Tangerine,,Onyx,3.5
+8,1213,FOAMZ #1213,Common,5742,Noodle Slurp,Ice,,Mint Chip,3.5
+8,1371,FOAMZ #1371,Uncommon,3219,Floss,Cloud,,Bubble Tea,5
+8,1489,FOAMZ #1489,Common,6826,Horse Dance,Grape,,Pistachio,3.5
+8,1549,FOAMZ #1549,Uncommon,2529,Scaredy Foam,Gold,,Neon Night,5
+8,1630,FOAMZ #1630,Epic,358,Busted,Holo,Bubblegum,Night Mode,25
+8,1695,FOAMZ #1695,Rare,1554,Punch Out,Black Shiba,Mint,Bubble Tea,10
+8,1802,FOAMZ #1802,Epic,339,Habibi,Lemon,Cloud,Grape Soda,25
+8,1815,FOAMZ #1815,Rare,1526,Diamond Hands,Mint,,Candy Crush,10
+8,1856,FOAMZ #1856,Epic,680,Oud & Bakhoor,Shiba,,Steel Blue,25
+8,1897,FOAMZ #1897,Common,6245,Airdrop,Toxic,,Deep Sea,3.5
+8,2230,FOAMZ #2230,Uncommon,2510,Profit Mode,Midnight,,Bubble Tea,5
+8,2358,FOAMZ #2358,Rare,1307,Trophy Lift,Sky,,Fandango Pop,10
+8,2417,FOAMZ #2417,Uncommon,2434,Scaredy Foam,Cloud,,Deep Sea,5
+8,2431,FOAMZ #2431,Common,5935,Wanderlust,Fire,,Teal Wave,3.5
+8,2538,FOAMZ #2538,Common,6082,Zen Mode,Cloud,,Cherry Cola,3.5
+8,2549,FOAMZ #2549,Rare,1438,Birthday Blowout,Midnight,,Steel Blue,10
+8,2635,FOAMZ #2635,Epic,320,Habibi,Cloud,Cloud,Cherry Cola,25
+8,2706,FOAMZ #2706,Rare,1944,Walk Away,Mint,,Cappuccino,10
+8,2730,FOAMZ #2730,Common,5711,Max PR,Tangerine,,Grape Soda,3.5
+8,2792,FOAMZ #2792,Rare,1535,High Five,Black Shiba,Ice,Fandango Pop,10
+8,3164,FOAMZ #3164,Common,6997,Chill Flames,Mint,,Mint Chip,3.5
+8,3285,FOAMZ #3285,Rare,1209,Profit Mode,Galaxy,,Burgundy Velvet,10
+8,3317,FOAMZ #3317,Common,7042,Cheers,Sky,Coral,Deep Sea,3.5
+8,3467,FOAMZ #3467,Uncommon,2993,Money Printer,Lemon,,Lemon Fizz,5
+8,3505,FOAMZ #3505,Common,6866,Wen Lambo,Tangerine,,Electric Violet,3.5
+8,3510,FOAMZ #3510,Uncommon,3016,Fat To Fit,Chrome,,Periwinkle,5
+8,3585,FOAMZ #3585,Epic,350,Shisha Chill,Lime,Toxic,Aurora,25
+8,3617,FOAMZ #3617,Uncommon,2843,Wen Lambo,Coral,,Lemon Fizz,5
+8,3855,FOAMZ #3855,Common,5751,Beach Day,Grape,,Periwinkle,3.5
+8,4022,FOAMZ #4022,Rare,1388,Squeeze Out,Shiba,,Mint Chip,10
+8,4189,FOAMZ #4189,Uncommon,3009,Rug Pull,Cloud,,Teal Wave,5
+8,4291,FOAMZ #4291,Rare,1393,Max PR,Coral,,Fandango Pop,10
+8,4458,FOAMZ #4458,Uncommon,3287,To The Moon,Black Shiba,,Lemon Fizz,5
+8,4468,FOAMZ #4468,Uncommon,3026,Smoke Rings,Cloud,,Steel Blue,5
+8,4520,FOAMZ #4520,Common,6889,Rug Pull,Fire,,Grape Soda,3.5
+8,4553,FOAMZ #4553,Uncommon,2641,Glow Up,Gold,,Cappuccino,5
+8,4597,FOAMZ #4597,Common,6278,Vibing,Lime,,Salmon Roll,3.5
+8,4619,FOAMZ #4619,Uncommon,3504,Punch Out,Shiba,Sky,Pistachio,5
+8,4737,FOAMZ #4737,Common,7473,High Five,Grape,Tangerine,Periwinkle,3.5
+8,4992,FOAMZ #4992,Common,6304,Laser Duel,Peach,Cloud,Lemon Fizz,3.5
+8,5102,FOAMZ #5102,Uncommon,2572,Noodle Slurp,Peach,,Teal Wave,5
+8,5144,FOAMZ #5144,Uncommon,2427,Couch Gamers,Toxic,Peach,Bubble Tea,5
+8,5158,FOAMZ #5158,Common,5893,Glow Up,Fire,,Bubble Tea,3.5
+8,5246,FOAMZ #5246,Uncommon,2425,Laser Duel,Lime,Bubblegum,Emerald City,5
+8,5283,FOAMZ #5283,Common,6775,Chill Flames,Peach,,Pearl,3.5
+8,5488,FOAMZ #5488,Uncommon,2424,Swole Bros,Tangerine,Tangerine,Deep Sea,5
+8,5658,FOAMZ #5658,Common,6558,Floss,Midnight,,Salmon Roll,3.5
+8,5739,FOAMZ #5739,Common,7373,Money Printer,Peach,,Lemon Fizz,3.5
+8,5747,FOAMZ #5747,Uncommon,2445,Laser Duel,Sky,Bubblegum,Sunset Peel,5
+8,5882,FOAMZ #5882,Rare,1608,Diamond Hands,Diamond,,Salmon Roll,10
+8,5937,FOAMZ #5937,Uncommon,3061,Dab,Mint,,Black Hole,5
+8,5995,FOAMZ #5995,Uncommon,3058,Diamond Hands,Lemon,,Cherry Cola,5
+8,6116,FOAMZ #6116,Uncommon,3188,Beach Day,Peach,,Cherry Cola,5
+8,6237,FOAMZ #6237,Rare,1443,Zen Mode,Fire,,Grape Soda,10
+8,6337,FOAMZ #6337,Common,5926,Beach Day,Shiba,,Teal Wave,3.5
+8,6378,FOAMZ #6378,Uncommon,3040,Bitcoin Bling,Grape,,Onyx,5
+8,6750,FOAMZ #6750,Common,6273,Chill Flames,Lemon,,Pistachio,3.5
+8,6810,FOAMZ #6810,Common,6241,Walk Away,Mint,,Lemon Fizz,3.5
+8,6896,FOAMZ #6896,Common,6184,Deal With It,Coral,,Deep Sea,3.5
+8,6953,FOAMZ #6953,Common,6426,GM Coffee,Ice,,Salmon Roll,3.5
+8,7022,FOAMZ #7022,Rare,1171,Screen Smash,Cloud,Toxic,Deep Sea,10
+8,7075,FOAMZ #7075,Rare,1482,Zen Mode,Grape,,Lavender Haze,10
+8,7081,FOAMZ #7081,Rare,1298,Max PR,Coral,,Teal Wave,10
+8,7129,FOAMZ #7129,Common,5739,Scaredy Foam,Lime,,Cappuccino,3.5
+8,7162,FOAMZ #7162,Uncommon,2455,Couch Gamers,Mint,Galaxy,Tomato Soup,5
+8,7462,FOAMZ #7462,Legendary,43,High Five,Ice,Black Shiba,Lemon Fizz,60
+8,7500,FOAMZ #7500,Uncommon,2678,Lollipop,Black Shiba,,Sunset Peel,5
+8,7569,FOAMZ #7569,Rare,1589,Deal With It,Holo,,Teal Wave,10
+8,7647,FOAMZ #7647,Common,6364,Everything's Fine,Ice,,Emerald City,3.5
+8,7752,FOAMZ #7752,Common,5717,Couch Gamers,Tangerine,Lemon,Cherry Cola,3.5
+8,8018,FOAMZ #8018,Uncommon,2883,Dab,Grape,,Grape Soda,5
+8,8099,FOAMZ #8099,Uncommon,3580,Love Boop,Galaxy,Midnight,Pistachio,5
+8,8307,FOAMZ #8307,Common,6408,Bitcoin Bling,Midnight,,Lemon Fizz,3.5
+8,8373,FOAMZ #8373,Epic,936,Dubai Selfie,Midnight,,Tomato Soup,25
+8,8660,FOAMZ #8660,Legendary,219,Keepy Uppy,Grape,,Black Gold,60
+8,8733,FOAMZ #8733,Common,6762,Spooky Szn,Lime,,Bubble Tea,3.5
+8,9169,FOAMZ #9169,Common,6423,Buy The Dip,Coral,,Teal Wave,3.5
+8,9181,FOAMZ #9181,Epic,409,Laser Duel,Lemon,Lime,Sunset Peel,25
+8,9233,FOAMZ #9233,Uncommon,2906,Vibing,Holo,,Lemon Fizz,5
+8,9258,FOAMZ #9258,Rare,1764,Horse Dance,Lemon,,Bubble Tea,10
+8,9262,FOAMZ #9262,Common,5811,Wanderlust,Midnight,,Grape Soda,3.5
+8,9277,FOAMZ #9277,Epic,367,Busted,Toxic,Black Shiba,Sunset Peel,25
+8,9506,FOAMZ #9506,Common,6365,Horse Dance,Lime,,Fandango Pop,3.5
+8,9566,FOAMZ #9566,Epic,578,Dab,Tangerine,,Onyx,25
+8,9837,FOAMZ #9837,Common,6368,Deal With It,Shiba,,Electric Violet,3.5
+9,148,FOAMZ #148,Epic,639,Walk Away,Grape,,Gold Rush,25
+9,257,FOAMZ #257,Uncommon,3022,Birthday Blowout,Lime,,Deep Sea,5
+9,280,FOAMZ #280,Uncommon,2960,Walk Away,Midnight,,Grape Soda,5
+9,490,FOAMZ #490,Uncommon,3835,To The Moon,Toxic,,Fandango Pop,5
+9,517,FOAMZ #517,Common,5726,Keepy Uppy,Ice,,Bubble Tea,3.5
+9,559,FOAMZ #559,Common,6346,Bottle Flip,Sky,,Salmon Roll,3.5
+9,610,FOAMZ #610,Common,6523,Buy The Dip,Grape,,Fandango Pop,3.5
+9,632,FOAMZ #632,Uncommon,2997,Wanderlust,Chrome,,Mint Chip,5
+9,759,FOAMZ #759,Epic,657,Number Go Up,Fire,,Candy Crush,25
+9,765,FOAMZ #765,Uncommon,3352,Number Go Up,Chrome,,Sunset Peel,5
+9,1018,FOAMZ #1018,Common,6967,Birthday Blowout,Chrome,,Mint Chip,3.5
+9,1061,FOAMZ #1061,Uncommon,2999,Spooky Szn,Lime,,Cappuccino,5
+9,1267,FOAMZ #1267,Common,6455,Chill Flames,Mint,,Tomato Soup,3.5
+9,1292,FOAMZ #1292,Uncommon,2810,Buy The Dip,Holo,,Periwinkle,5
+9,1301,FOAMZ #1301,Uncommon,3158,Chill Flames,Ice,,Salmon Roll,5
+9,1302,FOAMZ #1302,Epic,528,Dubai Selfie,Peach,,Salmon Roll,25
+9,1353,FOAMZ #1353,Uncommon,2414,Keepy Uppy,Lemon,,Emerald City,5
+9,1383,FOAMZ #1383,Common,5740,Beach Day,Mint,,Cherry Cola,3.5
+9,1606,FOAMZ #1606,Epic,514,Punch Out,Cloud,Coral,Grape Soda,25
+9,1760,FOAMZ #1760,Common,6295,Bottle Flip,Midnight,,Steel Blue,3.5
+9,1811,FOAMZ #1811,Common,6429,Number Go Up,Toxic,,Fandango Pop,3.5
+9,1819,FOAMZ #1819,Uncommon,3032,Floss,Grape,,Lemon Fizz,5
+9,1984,FOAMZ #1984,Epic,692,Horse Dance,Bubblegum,,Gold Rush,25
+9,2550,FOAMZ #2550,Rare,1710,The Squeeze,Midnight,,Teal Wave,10
+9,2606,FOAMZ #2606,Rare,1635,Buy The Dip,Diamond,,Pearl,10
+9,2609,FOAMZ #2609,Common,7367,Rug Pull,Lime,,Grape Soda,3.5
+9,2764,FOAMZ #2764,Uncommon,3133,Vibing,Toxic,,Periwinkle,5
+9,3188,FOAMZ #3188,Uncommon,2611,Surf's Up,Toxic,,Night Mode,5
+9,3205,FOAMZ #3205,Common,6392,Smoke Rings,Mint,,Sunset Peel,3.5
+9,3326,FOAMZ #3326,Uncommon,2485,Max PR,Ice,,Sunset Peel,5
+9,3329,FOAMZ #3329,Common,5958,Glow Up,Fire,,Gold Rush,3.5
+9,3410,FOAMZ #3410,Uncommon,3063,Everything's Fine,Grape,,Lavender Haze,5
+9,3753,FOAMZ #3753,Common,5700,Beach Day,Black Shiba,,Electric Violet,3.5
+9,3828,FOAMZ #3828,Common,6461,Squeeze Out,Sky,,Mint Chip,3.5
+9,4114,FOAMZ #4114,Uncommon,2552,Glow Up,Holo,,Teal Wave,5
+9,4337,FOAMZ #4337,Rare,1193,Swole Bros,Tangerine,Ice,Periwinkle,10
+9,4505,FOAMZ #4505,Common,6485,Aura Farming,Lime,,Salmon Roll,3.5
+9,4611,FOAMZ #4611,Common,5673,Beach Day,Lemon,,Electric Violet,3.5
+9,4683,FOAMZ #4683,Rare,1242,Keepy Uppy,Lemon,,Gold Rush,10
+9,4738,FOAMZ #4738,Common,5762,Max PR,Mint,,Pistachio,3.5
+9,4765,FOAMZ #4765,Common,6580,Aura Farming,Ice,,Bubble Tea,3.5
+9,4813,FOAMZ #4813,Uncommon,3036,Spooky Szn,Chrome,,Emerald City,5
+9,4817,FOAMZ #4817,Common,6289,GM Coffee,Lime,,Mint Chip,3.5
+9,4984,FOAMZ #4984,Common,6410,Smoke Rings,Lime,,Emerald City,3.5
+9,5072,FOAMZ #5072,Rare,1483,Floss,Lemon,,Pearl,10
+9,5168,FOAMZ #5168,Common,7386,Punch Out,Lime,Peach,Emerald City,3.5
+9,5235,FOAMZ #5235,Common,5858,Couch Gamers,Shiba,Tangerine,Sunset Peel,3.5
+9,5290,FOAMZ #5290,Common,6242,Buy The Dip,Shiba,,Deep Sea,3.5
+9,5630,FOAMZ #5630,Common,6467,Smoke Rings,Tangerine,,Mint Chip,3.5
+9,5646,FOAMZ #5646,Common,5837,Glow Up,Galaxy,,Lemon Fizz,3.5
+9,5986,FOAMZ #5986,Common,5721,Swole Bros,Grape,Sky,Electric Violet,3.5
+9,6200,FOAMZ #6200,Uncommon,2488,Wanderlust,Grape,,Burgundy Velvet,5
+9,6498,FOAMZ #6498,Uncommon,2758,Dab,Fire,,Fandango Pop,5
+9,6560,FOAMZ #6560,Common,6231,Airdrop,Sky,,Cherry Cola,3.5
+9,6693,FOAMZ #6693,Rare,1602,GM Coffee,Galaxy,,Pistachio,10
+9,6753,FOAMZ #6753,Common,5745,Surf's Up,Bubblegum,,Cherry Cola,3.5
+9,6768,FOAMZ #6768,Common,6545,Diamond Hands,Coral,,Teal Wave,3.5
+9,6784,FOAMZ #6784,Common,6256,Aura Farming,Peach,,Pistachio,3.5
+9,6800,FOAMZ #6800,Epic,415,Couch Gamers,Galaxy,Holo,Tomato Soup,25
+9,6841,FOAMZ #6841,Rare,1509,Punch Out,Mint,Galaxy,Steel Blue,10
+9,6922,FOAMZ #6922,Uncommon,2653,Zen Mode,Grape,,Mint Chip,5
+9,6950,FOAMZ #6950,Epic,375,Laser Duel,Mint,Bubblegum,Teal Wave,25
+9,6998,FOAMZ #6998,Uncommon,2955,Glow Up,Tangerine,,Tomato Soup,5
+9,7031,FOAMZ #7031,Common,6535,Aura Farming,Shiba,,Sunset Peel,3.5
+9,7085,FOAMZ #7085,Uncommon,2604,Scaredy Foam,Tangerine,,Lavender Haze,5
+9,7121,FOAMZ #7121,Uncommon,3165,Smoke Rings,Shiba,,Deep Sea,5
+9,7161,FOAMZ #7161,Rare,1327,Profit Mode,Midnight,,Lemon Fizz,10
+9,7178,FOAMZ #7178,Common,5927,Wanderlust,Peach,,Teal Wave,3.5
+9,7205,FOAMZ #7205,Common,6588,Number Go Up,Galaxy,,Emerald City,3.5
+9,7216,FOAMZ #7216,Uncommon,2942,Chill Flames,Sky,,Cherry Cola,5
+9,7278,FOAMZ #7278,Common,5832,Glow Up,Mint,,Night Mode,3.5
+9,7295,FOAMZ #7295,Uncommon,3428,Punch Out,Mint,Lime,Grape Soda,5
+9,7358,FOAMZ #7358,Uncommon,2949,Airdrop,Cloud,,Fandango Pop,5
+9,7383,FOAMZ #7383,Common,6320,Spooky Szn,Cloud,,Deep Sea,3.5
+9,7527,FOAMZ #7527,Legendary,26,Swole Bros,Black Shiba,Toxic,Onyx,60
+9,7617,FOAMZ #7617,Rare,1507,Gram Rain,Fire,,Emerald City,10
+9,7727,FOAMZ #7727,Uncommon,3116,Money Printer,Bubblegum,,Emerald City,5
+9,7740,FOAMZ #7740,Rare,1782,The Squeeze,Holo,,Salmon Roll,10
+9,7962,FOAMZ #7962,Rare,1575,Wen Lambo,Galaxy,,Grape Soda,10
+9,7973,FOAMZ #7973,Rare,1918,GM Coffee,Chrome,,Lemon Fizz,10
+9,8105,FOAMZ #8105,Uncommon,2411,Lollipop,Gold,,Tomato Soup,5
+9,8177,FOAMZ #8177,Uncommon,2889,The Squeeze,Midnight,,Pearl,5
+9,8241,FOAMZ #8241,Rare,1749,Chill Flames,Diamond,,Bubble Tea,10
+9,8324,FOAMZ #8324,Legendary,188,Karak Time,Fire,,Neon Night,60
+9,8442,FOAMZ #8442,Common,5771,Laser Duel,Fire,Bubblegum,Tomato Soup,3.5
+9,8559,FOAMZ #8559,Common,5685,Wanderlust,Midnight,,Periwinkle,3.5
+9,8586,FOAMZ #8586,Rare,1172,Swole Bros,Peach,Coral,Salmon Roll,10
+9,8914,FOAMZ #8914,Rare,1631,Dab,Midnight,,Emerald City,10
+9,8957,FOAMZ #8957,Uncommon,2461,Surf's Up,Sky,,Royal Wine,5
+9,8966,FOAMZ #8966,Epic,707,Birthday Blowout,Midnight,,Pearl,25
+9,8987,FOAMZ #8987,Common,6504,Buy The Dip,Lime,,Cappuccino,3.5
+9,9046,FOAMZ #9046,Epic,459,Shisha Chill,Midnight,Bubblegum,Deep Sea,25
+9,9071,FOAMZ #9071,Epic,468,Falcon,Black Shiba,,Salmon Roll,25
+9,9614,FOAMZ #9614,Common,7512,Punch Out,Mint,Bubblegum,Emerald City,3.5
+9,9692,FOAMZ #9692,Rare,1176,Laser Duel,Tangerine,Peach,Periwinkle,10
+9,9801,FOAMZ #9801,Common,6437,Birthday Blowout,Lemon,,Salmon Roll,3.5
+9,9824,FOAMZ #9824,Rare,1480,Spooky Szn,Lime,,Pearl,10
+9,9832,FOAMZ #9832,Rare,1741,Smoke Rings,Black Shiba,,Emerald City,10
+9,9836,FOAMZ #9836,Uncommon,2707,Trophy Lift,Fire,,Lavender Haze,5
+9,9867,FOAMZ #9867,Common,6720,Floss,Fire,,Neon Night,3.5
+10,79,FOAMZ #79,Common,6115,Walk Away,Coral,,Cherry Cola,3.5
+10,138,FOAMZ #138,Uncommon,2939,Bottle Flip,Black Shiba,,Tomato Soup,5
+10,183,FOAMZ #183,Common,6056,Trophy Lift,Grape,,Steel Blue,3.5
+10,184,FOAMZ #184,Uncommon,2447,Laser Duel,Bubblegum,Coral,Fandango Pop,5
+10,399,FOAMZ #399,Uncommon,2497,Screen Wipe,Galaxy,,Tomato Soup,5
+10,457,FOAMZ #457,Common,5719,Scaredy Foam,Sky,,Lemon Fizz,3.5
+10,558,FOAMZ #558,Rare,1630,Airdrop,Peach,,Gold Rush,10
+10,608,FOAMZ #608,Rare,1660,Money Printer,Gold,,Candy Crush,10
+10,646,FOAMZ #646,Uncommon,2848,Number Go Up,Black Shiba,,Sunset Peel,5
+10,667,FOAMZ #667,Common,6803,Dab,Midnight,,Deep Sea,3.5
+10,915,FOAMZ #915,Common,6031,Laser Duel,Sky,Grape,Steel Blue,3.5
+10,922,FOAMZ #922,Common,6736,Rug Pull,Mint,,Electric Violet,3.5
+10,999,FOAMZ #999,Uncommon,2412,Keepy Uppy,Tangerine,,Deep Sea,5
+10,1100,FOAMZ #1100,Common,5731,Screen Wipe,Fire,,Steel Blue,3.5
+10,1108,FOAMZ #1108,Uncommon,2994,Number Go Up,Cloud,,Mint Chip,5
+10,1228,FOAMZ #1228,Epic,632,Chill Flames,Mint,,Tomato Soup,25
+10,1273,FOAMZ #1273,Common,5768,Wanderlust,Cloud,,Pistachio,3.5
+10,1317,FOAMZ #1317,Common,6174,Airdrop,Lime,,Mint Chip,3.5
+10,1700,FOAMZ #1700,Uncommon,2869,Everything's Fine,Lime,,Gold Rush,5
+10,1755,FOAMZ #1755,Uncommon,2475,Glow Up,Shiba,,Night Mode,5
+10,1831,FOAMZ #1831,Epic,539,Cheers,Mint,Sky,Fandango Pop,25
+10,1940,FOAMZ #1940,Legendary,88,Oud & Bakhoor,Midnight,,Gold Rush,60
+10,2003,FOAMZ #2003,Uncommon,3042,Spooky Szn,Peach,,Mint Chip,5
+10,2011,FOAMZ #2011,Uncommon,2423,Laser Duel,Lemon,Shiba,Salmon Roll,5
+10,2101,FOAMZ #2101,Common,6405,Vibing,Grape,,Periwinkle,3.5
+10,2206,FOAMZ #2206,Common,6537,The Squeeze,Ice,,Periwinkle,3.5
+10,2270,FOAMZ #2270,Rare,1448,Spooky Szn,Coral,,Tomato Soup,10
+10,2280,FOAMZ #2280,Common,6330,GM Coffee,Toxic,,Tomato Soup,3.5
+10,2329,FOAMZ #2329,Common,6626,Squeeze Out,Grape,,Pistachio,3.5
+10,2405,FOAMZ #2405,Epic,507,Love Boop,Toxic,Grape,Aurora,25
+10,2435,FOAMZ #2435,Rare,1553,Love Boop,Peach,Coral,Lemon Fizz,10
+10,2637,FOAMZ #2637,Epic,763,Dune Bash,Lime,,Tomato Soup,25
+10,2779,FOAMZ #2779,Common,5707,Screen Wipe,Bubblegum,,Grape Soda,3.5
+10,2893,FOAMZ #2893,Epic,511,Love Boop,Grape,Midnight,Salmon Roll,25
+10,3054,FOAMZ #3054,Rare,1695,Floss,Galaxy,,Bubble Tea,10
+10,3163,FOAMZ #3163,Common,5752,Wanderlust,Ice,,Neon Night,3.5
+10,3553,FOAMZ #3553,Uncommon,2530,Beach Day,Holo,,Pistachio,5
+10,3826,FOAMZ #3826,Common,5786,Lollipop,Coral,,Periwinkle,3.5
+10,4032,FOAMZ #4032,Common,6832,Birthday Blowout,Tangerine,,Periwinkle,3.5
+10,4129,FOAMZ #4129,Uncommon,3400,Cheers,Ice,Grape,Electric Violet,5
+10,4135,FOAMZ #4135,Common,6519,Number Go Up,Mint,,Cappuccino,3.5
+10,4176,FOAMZ #4176,Rare,1376,Rug Pull,Diamond,,Cherry Cola,10
+10,4219,FOAMZ #4219,Common,5747,Max PR,Lemon,,Night Mode,3.5
+10,4730,FOAMZ #4730,Uncommon,2701,Screen Wipe,Sky,,Pearl,5
+10,4776,FOAMZ #4776,Common,6029,Deal With It,Grape,,Deep Sea,3.5
+10,5303,FOAMZ #5303,Rare,1567,Love Boop,Toxic,Toxic,Mint Chip,10
+10,5381,FOAMZ #5381,Common,7201,Punch Out,Tangerine,Coral,Cherry Cola,3.5
+10,5388,FOAMZ #5388,Epic,383,Screen Smash,Shiba,Fire,Lavender Haze,25
+10,5522,FOAMZ #5522,Common,6385,Horse Dance,Bubblegum,,Cherry Cola,3.5
+10,5566,FOAMZ #5566,Common,6150,Gram Rain,Fire,,Mint Chip,3.5
+10,5633,FOAMZ #5633,Common,6355,Birthday Blowout,Coral,,Grape Soda,3.5
+10,5634,FOAMZ #5634,Common,6317,Horse Dance,Cloud,,Electric Violet,3.5
+10,5691,FOAMZ #5691,Common,7596,Love Boop,Peach,Peach,Mint Chip,3.5
+10,5864,FOAMZ #5864,Uncommon,2683,Zen Mode,Shiba,,Salmon Roll,5
+10,5940,FOAMZ #5940,Common,6448,Bitcoin Bling,Black Shiba,,Sunset Peel,3.5
+10,5983,FOAMZ #5983,Legendary,232,Beach Day,Galaxy,,Black Gold,60
+10,6023,FOAMZ #6023,Rare,1643,Chill Flames,Tangerine,,Steel Blue,10
+10,6193,FOAMZ #6193,Rare,1503,Birthday Blowout,Black Shiba,,Tomato Soup,10
+10,6253,FOAMZ #6253,Uncommon,2896,Deal With It,Tangerine,,Aurora,5
+10,6293,FOAMZ #6293,Common,7469,High Five,Bubblegum,Sky,Salmon Roll,3.5
+10,6396,FOAMZ #6396,Uncommon,3221,Aura Farming,Midnight,,Sunset Peel,5
+10,6407,FOAMZ #6407,Rare,1437,Diamond Hands,Cloud,,Black Hole,10
+10,6624,FOAMZ #6624,Common,6670,Bitcoin Bling,Shiba,,Sunset Peel,3.5
+10,6633,FOAMZ #6633,Uncommon,3338,Horse Dance,Black Shiba,,Pearl,5
+10,6649,FOAMZ #6649,Rare,1582,GM Coffee,Mint,,Steel Blue,10
+10,6655,FOAMZ #6655,Uncommon,2437,Laser Duel,Lemon,Cloud,Cherry Cola,5
+10,6829,FOAMZ #6829,Uncommon,2916,Floss,Cloud,,Onyx,5
+10,6872,FOAMZ #6872,Common,5912,Fat To Fit,Toxic,,Bubble Tea,3.5
+10,6960,FOAMZ #6960,Uncommon,3121,Surf's Up,Chrome,,Mint Chip,5
+10,6962,FOAMZ #6962,Uncommon,3122,Birthday Blowout,Black Shiba,,Cappuccino,5
+10,7000,FOAMZ #7000,Common,6080,Deal With It,Cloud,,Cappuccino,3.5
+10,7114,FOAMZ #7114,Epic,428,Noodle Slurp,Sky,,Burgundy Velvet,25
+10,7207,FOAMZ #7207,Epic,557,Rug Pull,Midnight,,Pearl,25
+10,7230,FOAMZ #7230,Common,6318,Bottle Flip,Grape,,Pistachio,3.5
+10,7243,FOAMZ #7243,Epic,579,Zen Mode,Tangerine,,Gold Rush,25
+10,7342,FOAMZ #7342,Rare,1277,Lollipop,Gold,,Cappuccino,10
+10,7525,FOAMZ #7525,Common,5819,Surf's Up,Lemon,,Electric Violet,3.5
+10,7626,FOAMZ #7626,Rare,1946,Aura Farming,Sky,,Steel Blue,10
+10,7679,FOAMZ #7679,Common,5725,Busted,Sky,Peach,Teal Wave,3.5
+10,7799,FOAMZ #7799,Epic,590,Gram Rain,Chrome,,Steel Blue,25
+10,7833,FOAMZ #7833,Rare,1406,Number Go Up,Holo,,Cherry Cola,10
+10,7919,FOAMZ #7919,Rare,1449,Spooky Szn,Fire,,Lavender Haze,10
+10,8165,FOAMZ #8165,Uncommon,2602,Surf's Up,Mint,,Candy Crush,5
+10,8345,FOAMZ #8345,Rare,1248,Scaredy Foam,Mint,,Pearl,10
+10,8367,FOAMZ #8367,Uncommon,3367,Cheers,Coral,Black Shiba,Mint Chip,5
+10,8388,FOAMZ #8388,Common,6522,Everything's Fine,Sky,,Bubble Tea,3.5
+10,8536,FOAMZ #8536,Common,7335,Rug Pull,Toxic,,Teal Wave,3.5
+10,8884,FOAMZ #8884,Uncommon,3403,Rug Pull,Mint,,Salmon Roll,5
+10,8944,FOAMZ #8944,Uncommon,3127,Money Printer,Gold,,Tomato Soup,5
+10,9075,FOAMZ #9075,Uncommon,3257,Chill Flames,Lemon,,Deep Sea,5
+10,9111,FOAMZ #9111,Uncommon,2753,Vibing,Galaxy,,Cherry Cola,5
+10,9271,FOAMZ #9271,Common,6009,Zen Mode,Sky,,Steel Blue,3.5
+10,9273,FOAMZ #9273,Common,5736,Noodle Slurp,Lemon,,Lemon Fizz,3.5
+10,9281,FOAMZ #9281,Rare,1305,Scaredy Foam,Fire,,Salmon Roll,10
+10,9295,FOAMZ #9295,Uncommon,3044,Rug Pull,Lime,,Steel Blue,5
+10,9419,FOAMZ #9419,Common,6436,Chill Flames,Lime,,Emerald City,3.5
+10,9484,FOAMZ #9484,Uncommon,2703,Wanderlust,Galaxy,,Lavender Haze,5
+10,9606,FOAMZ #9606,Uncommon,3048,Smoke Rings,Lime,,Mint Chip,5
+10,9689,FOAMZ #9689,Rare,1304,Lollipop,Lemon,,Onyx,10
+10,9754,FOAMZ #9754,Common,7460,Love Boop,Coral,Peach,Teal Wave,3.5
