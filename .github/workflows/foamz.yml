@@ -1,1 +1,41 @@
-
+name: FOAMZ
+on:
+  workflow_dispatch:
+    inputs:
+      task: {description: "setup = unpack the zips, mint = mint NFTs", type: choice, options: [setup, mint], default: setup}
+      network: {description: "testnet or mainnet", type: choice, options: [testnet, mainnet], default: testnet}
+      batch: {description: "Drop 1 batch (1-10), 0 = launch Mythics", default: "1"}
+      ids: {description: "Or FOAMZ numbers, e.g. 1,25,33", default: ""}
+      limit: {description: "Only first N (e.g. 5 to test)", default: ""}
+permissions:
+  contents: write
+concurrency: foamz
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Setup (unpack zips)
+        if: inputs.task == 'setup'
+        run: |
+          for f in foamz_kit_*.zip; do unzip -o -q "$f"; git rm -q "$f"; done
+          git config user.name foamz-bot && git config user.email bot@users.noreply.github.com
+          git add -A && git commit -q -m "unpack FOAMZ Drop 1 kit" && git push
+          echo "Unpacked: $(ls covers | wc -l) covers, $(ls lottie | wc -l) animations"
+      - name: Mint
+        if: inputs.task == 'mint'
+        env:
+          NETWORK: ${{ inputs.network }}
+          GETGEMS_API_KEY: ${{ inputs.network == 'mainnet' && secrets.GETGEMS_API_KEY_MAINNET || secrets.GETGEMS_API_KEY_TESTNET }}
+          COLLECTION: ${{ inputs.network == 'mainnet' && vars.COLLECTION_MAINNET || vars.COLLECTION_TESTNET }}
+          OWNER: ${{ inputs.network == 'mainnet' && vars.OWNER_MAINNET || vars.OWNER_TESTNET }}
+          ASSETS_BASE: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}
+        run: |
+          if [ -n "${{ inputs.ids }}" ]; then ARGS="--ids ${{ inputs.ids }}"; else ARGS="--batch ${{ inputs.batch }}"; fi
+          if [ -n "${{ inputs.limit }}" ]; then ARGS="$ARGS --limit ${{ inputs.limit }}"; fi
+          python mint.py $ARGS
+      - name: Save mint log
+        if: always() && inputs.task == 'mint'
+        run: |
+          git config user.name foamz-bot && git config user.email bot@users.noreply.github.com
+          git add minted.json 2>/dev/null && git commit -q -m "mint log" && git push || true
