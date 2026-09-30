@@ -54,13 +54,22 @@ def main():
     raw_lines = len([l for l in key.splitlines() if l.strip()])
     # keys never contain spaces: drop line breaks, spaces and invisible characters picked up when copying from Telegram
     key = "".join(ch for ch in key if not ch.isspace() and ch not in "\u200b\u200c\u200d\ufeff\u2060")
-    if key.lower().startswith(("apikey:", "api_key:", "key:", "authorization:")):
+    # tolerate pasting part of the bot's curl example: -H 'authorization: KEY'
+    import re as _re
+    m = _re.search(r"(\d{10,}-(?:mainnet|testnet)-[A-Za-z0-9_\-]+)", key)
+    if m:
+        key = m.group(1)
+    elif ":" in key and key.lower().split(":", 1)[0].endswith(("authorization", "apikey", "api_key", "key")):
         key = key.split(":", 1)[1]
+    key = key.strip("'\"")
     if raw_lines > 1:
         print(f"note: the API key secret had {raw_lines} lines — cleaned it into one ({len(key)} characters).", flush=True)
     print(f"network={net}  api_key={'set' if key else 'MISSING'}  collection={coll or 'MISSING'}  owner={owner or 'MISSING'}  assets={base or 'MISSING'}", flush=True)
     if not a.dry_run and not all((key, coll, owner, base)):
         sys.exit("Missing setting(s) above. Check the names in GitHub Settings -> Secrets and variables -> Actions.")
+    if not a.dry_run:
+        bal = call("GET", f"{API[net]}/minting/{coll}/wallet-balance", key)
+        print(f"gas wallet: {json.dumps(bal.get('response', bal))}", flush=True)
     items = json.load(open("drop1_items.json"))
     if a.ids:
         want = {int(x) for x in a.ids.split(",")}
