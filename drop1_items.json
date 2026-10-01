@@ -42999,7 +42999,7 @@
   "tier": "Mythic",
   "price_gram": null,
   "name": "FOAMZ × Bitcoinciaga #1 · Bitcoinciaga Royale",
-  "description": "Gold & Diamond doing a Drip Check in the Bitcoinciaga black hoodie and black tee. FOAMZ × Bitcoinciaga collab drop — only 5 exist. FOAMZ — block the noise.",
+  "description": "Gold & Diamond doing a Drip Check in the Bitcoinciaga black hoodie and black tee. FOAMZ × Bitcoinciaga collab drop — only 30 exist. FOAMZ — block the noise.",
   "attributes": [
    {
     "trait_type": "Move",
@@ -43053,7 +43053,7 @@
   "tier": "Legendary",
   "price_gram": null,
   "name": "FOAMZ × Bitcoinciaga #2",
-  "description": "Mint & Peach doing a Drip Check in the Bitcoinciaga green hoodie and white tee. FOAMZ × Bitcoinciaga collab drop — only 5 exist. FOAMZ — block the noise.",
+  "description": "Mint & Peach doing a Drip Check in the Bitcoinciaga green hoodie and white tee. FOAMZ × Bitcoinciaga collab drop — only 30 exist. FOAMZ — block the noise.",
   "attributes": [
    {
     "trait_type": "Move",
@@ -43107,7 +43107,7 @@
   "tier": "Legendary",
   "price_gram": null,
   "name": "FOAMZ × Bitcoinciaga #3",
-  "description": "Sky & Bubblegum doing a Drip Check in the Bitcoinciaga black hoodie and white tee. FOAMZ × Bitcoinciaga collab drop — only 5 exist. FOAMZ — block the noise.",
+  "description": "Sky & Bubblegum doing a Drip Check in the Bitcoinciaga black hoodie and white tee. FOAMZ × Bitcoinciaga collab drop — only 30 exist. FOAMZ — block the noise.",
   "attributes": [
    {
     "trait_type": "Move",
@@ -43161,7 +43161,7 @@
   "tier": "Legendary",
   "price_gram": null,
   "name": "FOAMZ × Bitcoinciaga #4",
-  "description": "Tangerine & Cloud doing a Drip Check in the Bitcoinciaga green hoodie and black tee. FOAMZ × Bitcoinciaga collab drop — only 5 exist. FOAMZ — block the noise.",
+  "description": "Tangerine & Cloud doing a Drip Check in the Bitcoinciaga green hoodie and black tee. FOAMZ × Bitcoinciaga collab drop — only 30 exist. FOAMZ — block the noise.",
   "attributes": [
    {
     "trait_type": "Move",
@@ -43215,7 +43215,7 @@
   "tier": "Legendary",
   "price_gram": null,
   "name": "FOAMZ × Bitcoinciaga #5",
-  "description": "Chrome & Shiba doing a Drip Check in the Bitcoinciaga black hoodie and white tee. FOAMZ × Bitcoinciaga collab drop — only 5 exist. FOAMZ — block the noise.",
+  "description": "Chrome & Shiba doing a Drip Check in the Bitcoinciaga black hoodie and white tee. FOAMZ × Bitcoinciaga collab drop — only 30 exist. FOAMZ — block the noise.",
   "attributes": [
    {
     "trait_type": "Move",
@@ -43256,6 +43256,1356 @@
    {
     "trait_type": "Tier",
     "value": "Legendary"
+   },
+   {
+    "trait_type": "Collab",
+    "value": "Bitcoinciaga"
+   }
+  ]
+ },
+ {
+  "id": 10006,
+  "batch": 11,
+  "tier": "Legendary",
+  "price_gram": null,
+  "name": "FOAMZ × Bitcoinciaga #6",
+  "description": "Galaxy & Fire doing a Drip Check in the Bitcoinciaga green hoodie and black tee. FOAMZ × Bitcoinciaga collab drop — only 30 exist. FOAMZ — block the noise.",
+  "attributes": [
+   {
+    "trait_type": "Move",
+    "value": "Drip Check"
+   },
+   {
+    "trait_type": "Foam",
+    "value": "Galaxy"
+   },
+   {
+    "trait_type": "Partner",
+    "value": "Fire"
+   },
+   {
+    "trait_type": "Headwear",
+    "value": "None"
+   },
+   {
+    "trait_type": "Eyewear",
+    "value": "Shades"
+   },
+   {
+    "trait_type": "Outfit",
+    "value": "Bitcoinciaga Hoodie Green"
+   },
+   {
+    "trait_type": "Partner Outfit",
+    "value": "Bitcoinciaga Tee Black"
+   },
+   {
+    "trait_type": "Backdrop",
+    "value": "Neon Night"
+   },
+   {
+    "trait_type": "Symbol",
+    "value": "Stonks"
+   },
+   {
+    "trait_type": "Tier",
+    "value": "Legendary"
+   },
+   {
+    "trait_type": "Collab",
+    "value": "Bitcoinciaga"
+   }
+  ]
+ },
+ {
+  "id": 10007,
+  "batch": 11,
+  "tier": "Legendary",
+  "price_gram": null,
+  "name": "FOAMZ × Bitcoinciaga #7",
+  "description": "Holo & Midnight doing a Drip Check in the Bitcoinciaga black hoodie and white tee. FOAMZ × Bitcoinciaga collab drop — only 30 exist. FOAMZ — block the noise.",
+  "attributes": [
+   {
+    "trait_type": "Move",
+    "value": "Drip Check"
+   },
+   {
+    "trait_type": "Foam",
+    "value": "Holo"
+   },
+   {
+    "trait_type": "Partner",
+    "value": "Midnight"
+   },
+   {
+    "trait_type": "Headwear",
+    "value": "None"
+   },
+   {
+    "trait_type": "Eyewear",
+    "value": "None"
+   },
+   {
+    "trait_type": "Outfit",
+    "value": "Bitcoinciaga Hoodie Black"
+   },
+   {
+    "trait_type": "Partner Outfit",
+    "value": "Bitcoinciaga Tee White"
+   },
+   {
+    "trait_type": "Backdrop",
+    "value": "Aurora"
+   },
+   {
+    "trait_type": "Symbol",
+    "value": "Sparkle"
+   },
+   {
+    "trait_type": "Tier",
+    "value": "Legendary"
+   },
+   {
+    "trait_type": "Collab",
+    "value": "Bitcoinciaga"
+   }
+  ]
+ },
+ {
+  "id": 10008,
+  "batch": 11,
+  "tier": "Legendary",
+  "price_gram": null,
+  "name": "FOAMZ × Bitcoinciaga #8",
+  "description": "Ice & Black Shiba doing a Drip Check in the Bitcoinciaga green hoodie and white tee. FOAMZ × Bitcoinciaga collab drop — only 30 exist. FOAMZ — block the noise.",
+  "attributes": [
+   {
+    "trait_type": "Move",
+    "value": "Drip Check"
+   },
+   {
+    "trait_type": "Foam",
+    "value": "Ice"
+   },
+   {
+    "trait_type": "Partner",
+    "value": "Black Shiba"
+   },
+   {
+    "trait_type": "Headwear",
+    "value": "None"
+   },
+   {
+    "trait_type": "Eyewear",
+    "value": "None"
+   },
+   {
+    "trait_type": "Outfit",
+    "value": "Bitcoinciaga Hoodie Green"
+   },
+   {
+    "trait_type": "Partner Outfit",
+    "value": "Bitcoinciaga Tee White"
+   },
+   {
+    "trait_type": "Backdrop",
+    "value": "Royal Wine"
+   },
+   {
+    "trait_type": "Symbol",
+    "value": "Satoshi"
+   },
+   {
+    "trait_type": "Tier",
+    "value": "Legendary"
+   },
+   {
+    "trait_type": "Collab",
+    "value": "Bitcoinciaga"
+   }
+  ]
+ },
+ {
+  "id": 10009,
+  "batch": 11,
+  "tier": "Legendary",
+  "price_gram": null,
+  "name": "FOAMZ × Bitcoinciaga #9",
+  "description": "Fire & Ice doing a Drip Check in the Bitcoinciaga black hoodie and black tee. FOAMZ × Bitcoinciaga collab drop — only 30 exist. FOAMZ — block the noise.",
+  "attributes": [
+   {
+    "trait_type": "Move",
+    "value": "Drip Check"
+   },
+   {
+    "trait_type": "Foam",
+    "value": "Fire"
+   },
+   {
+    "trait_type": "Partner",
+    "value": "Ice"
+   },
+   {
+    "trait_type": "Headwear",
+    "value": "None"
+   },
+   {
+    "trait_type": "Eyewear",
+    "value": "None"
+   },
+   {
+    "trait_type": "Outfit",
+    "value": "Bitcoinciaga Hoodie Black"
+   },
+   {
+    "trait_type": "Partner Outfit",
+    "value": "Bitcoinciaga Tee Black"
+   },
+   {
+    "trait_type": "Backdrop",
+    "value": "Night Mode"
+   },
+   {
+    "trait_type": "Symbol",
+    "value": "Cashflow"
+   },
+   {
+    "trait_type": "Tier",
+    "value": "Legendary"
+   },
+   {
+    "trait_type": "Collab",
+    "value": "Bitcoinciaga"
+   }
+  ]
+ },
+ {
+  "id": 10010,
+  "batch": 11,
+  "tier": "Legendary",
+  "price_gram": null,
+  "name": "FOAMZ × Bitcoinciaga #10",
+  "description": "Toxic & Galaxy doing a Drip Check in the Bitcoinciaga green hoodie and black tee. FOAMZ × Bitcoinciaga collab drop — only 30 exist. FOAMZ — block the noise.",
+  "attributes": [
+   {
+    "trait_type": "Move",
+    "value": "Drip Check"
+   },
+   {
+    "trait_type": "Foam",
+    "value": "Toxic"
+   },
+   {
+    "trait_type": "Partner",
+    "value": "Galaxy"
+   },
+   {
+    "trait_type": "Headwear",
+    "value": "None"
+   },
+   {
+    "trait_type": "Eyewear",
+    "value": "Laser Eyes"
+   },
+   {
+    "trait_type": "Outfit",
+    "value": "Bitcoinciaga Hoodie Green"
+   },
+   {
+    "trait_type": "Partner Outfit",
+    "value": "Bitcoinciaga Tee Black"
+   },
+   {
+    "trait_type": "Backdrop",
+    "value": "Onyx"
+   },
+   {
+    "trait_type": "Symbol",
+    "value": "Satoshi"
+   },
+   {
+    "trait_type": "Tier",
+    "value": "Legendary"
+   },
+   {
+    "trait_type": "Collab",
+    "value": "Bitcoinciaga"
+   }
+  ]
+ },
+ {
+  "id": 10011,
+  "batch": 11,
+  "tier": "Epic",
+  "price_gram": null,
+  "name": "FOAMZ × Bitcoinciaga #11",
+  "description": "Lemon & Grape doing a Drip Check in the Bitcoinciaga black hoodie and white tee. FOAMZ × Bitcoinciaga collab drop — only 30 exist. FOAMZ — block the noise.",
+  "attributes": [
+   {
+    "trait_type": "Move",
+    "value": "Drip Check"
+   },
+   {
+    "trait_type": "Foam",
+    "value": "Lemon"
+   },
+   {
+    "trait_type": "Partner",
+    "value": "Grape"
+   },
+   {
+    "trait_type": "Headwear",
+    "value": "None"
+   },
+   {
+    "trait_type": "Eyewear",
+    "value": "None"
+   },
+   {
+    "trait_type": "Outfit",
+    "value": "Bitcoinciaga Hoodie Black"
+   },
+   {
+    "trait_type": "Partner Outfit",
+    "value": "Bitcoinciaga Tee White"
+   },
+   {
+    "trait_type": "Backdrop",
+    "value": "Grape Soda"
+   },
+   {
+    "trait_type": "Symbol",
+    "value": "Satoshi"
+   },
+   {
+    "trait_type": "Tier",
+    "value": "Epic"
+   },
+   {
+    "trait_type": "Collab",
+    "value": "Bitcoinciaga"
+   }
+  ]
+ },
+ {
+  "id": 10012,
+  "batch": 11,
+  "tier": "Epic",
+  "price_gram": null,
+  "name": "FOAMZ × Bitcoinciaga #12",
+  "description": "Lime & Coral doing a Drip Check in the Bitcoinciaga green hoodie and white tee. FOAMZ × Bitcoinciaga collab drop — only 30 exist. FOAMZ — block the noise.",
+  "attributes": [
+   {
+    "trait_type": "Move",
+    "value": "Drip Check"
+   },
+   {
+    "trait_type": "Foam",
+    "value": "Lime"
+   },
+   {
+    "trait_type": "Partner",
+    "value": "Coral"
+   },
+   {
+    "trait_type": "Headwear",
+    "value": "None"
+   },
+   {
+    "trait_type": "Eyewear",
+    "value": "None"
+   },
+   {
+    "trait_type": "Outfit",
+    "value": "Bitcoinciaga Hoodie Green"
+   },
+   {
+    "trait_type": "Partner Outfit",
+    "value": "Bitcoinciaga Tee White"
+   },
+   {
+    "trait_type": "Backdrop",
+    "value": "Cherry Cola"
+   },
+   {
+    "trait_type": "Symbol",
+    "value": "Cashflow"
+   },
+   {
+    "trait_type": "Tier",
+    "value": "Epic"
+   },
+   {
+    "trait_type": "Collab",
+    "value": "Bitcoinciaga"
+   }
+  ]
+ },
+ {
+  "id": 10013,
+  "batch": 11,
+  "tier": "Epic",
+  "price_gram": null,
+  "name": "FOAMZ × Bitcoinciaga #13",
+  "description": "Bubblegum & Sky doing a Drip Check in the Bitcoinciaga black hoodie and black tee. FOAMZ × Bitcoinciaga collab drop — only 30 exist. FOAMZ — block the noise.",
+  "attributes": [
+   {
+    "trait_type": "Move",
+    "value": "Drip Check"
+   },
+   {
+    "trait_type": "Foam",
+    "value": "Bubblegum"
+   },
+   {
+    "trait_type": "Partner",
+    "value": "Sky"
+   },
+   {
+    "trait_type": "Headwear",
+    "value": "None"
+   },
+   {
+    "trait_type": "Eyewear",
+    "value": "Shades"
+   },
+   {
+    "trait_type": "Outfit",
+    "value": "Bitcoinciaga Hoodie Black"
+   },
+   {
+    "trait_type": "Partner Outfit",
+    "value": "Bitcoinciaga Tee Black"
+   },
+   {
+    "trait_type": "Backdrop",
+    "value": "Mint Chip"
+   },
+   {
+    "trait_type": "Symbol",
+    "value": "Stonks"
+   },
+   {
+    "trait_type": "Tier",
+    "value": "Epic"
+   },
+   {
+    "trait_type": "Collab",
+    "value": "Bitcoinciaga"
+   }
+  ]
+ },
+ {
+  "id": 10014,
+  "batch": 11,
+  "tier": "Epic",
+  "price_gram": null,
+  "name": "FOAMZ × Bitcoinciaga #14",
+  "description": "Peach & Mint doing a Drip Check in the Bitcoinciaga green hoodie and black tee. FOAMZ × Bitcoinciaga collab drop — only 30 exist. FOAMZ — block the noise.",
+  "attributes": [
+   {
+    "trait_type": "Move",
+    "value": "Drip Check"
+   },
+   {
+    "trait_type": "Foam",
+    "value": "Peach"
+   },
+   {
+    "trait_type": "Partner",
+    "value": "Mint"
+   },
+   {
+    "trait_type": "Headwear",
+    "value": "None"
+   },
+   {
+    "trait_type": "Eyewear",
+    "value": "None"
+   },
+   {
+    "trait_type": "Outfit",
+    "value": "Bitcoinciaga Hoodie Green"
+   },
+   {
+    "trait_type": "Partner Outfit",
+    "value": "Bitcoinciaga Tee Black"
+   },
+   {
+    "trait_type": "Backdrop",
+    "value": "Deep Sea"
+   },
+   {
+    "trait_type": "Symbol",
+    "value": "Sparkle"
+   },
+   {
+    "trait_type": "Tier",
+    "value": "Epic"
+   },
+   {
+    "trait_type": "Collab",
+    "value": "Bitcoinciaga"
+   }
+  ]
+ },
+ {
+  "id": 10015,
+  "batch": 11,
+  "tier": "Epic",
+  "price_gram": null,
+  "name": "FOAMZ × Bitcoinciaga #15",
+  "description": "Grape & Lemon doing a Drip Check in the Bitcoinciaga black hoodie and white tee. FOAMZ × Bitcoinciaga collab drop — only 30 exist. FOAMZ — block the noise.",
+  "attributes": [
+   {
+    "trait_type": "Move",
+    "value": "Drip Check"
+   },
+   {
+    "trait_type": "Foam",
+    "value": "Grape"
+   },
+   {
+    "trait_type": "Partner",
+    "value": "Lemon"
+   },
+   {
+    "trait_type": "Headwear",
+    "value": "None"
+   },
+   {
+    "trait_type": "Eyewear",
+    "value": "None"
+   },
+   {
+    "trait_type": "Outfit",
+    "value": "Bitcoinciaga Hoodie Black"
+   },
+   {
+    "trait_type": "Partner Outfit",
+    "value": "Bitcoinciaga Tee White"
+   },
+   {
+    "trait_type": "Backdrop",
+    "value": "Sunset Peel"
+   },
+   {
+    "trait_type": "Symbol",
+    "value": "Satoshi"
+   },
+   {
+    "trait_type": "Tier",
+    "value": "Epic"
+   },
+   {
+    "trait_type": "Collab",
+    "value": "Bitcoinciaga"
+   }
+  ]
+ },
+ {
+  "id": 10016,
+  "batch": 11,
+  "tier": "Epic",
+  "price_gram": null,
+  "name": "FOAMZ × Bitcoinciaga #16",
+  "description": "Coral & Cloud doing a Drip Check in the Bitcoinciaga green hoodie and white tee. FOAMZ × Bitcoinciaga collab drop — only 30 exist. FOAMZ — block the noise.",
+  "attributes": [
+   {
+    "trait_type": "Move",
+    "value": "Drip Check"
+   },
+   {
+    "trait_type": "Foam",
+    "value": "Coral"
+   },
+   {
+    "trait_type": "Partner",
+    "value": "Cloud"
+   },
+   {
+    "trait_type": "Headwear",
+    "value": "None"
+   },
+   {
+    "trait_type": "Eyewear",
+    "value": "None"
+   },
+   {
+    "trait_type": "Outfit",
+    "value": "Bitcoinciaga Hoodie Green"
+   },
+   {
+    "trait_type": "Partner Outfit",
+    "value": "Bitcoinciaga Tee White"
+   },
+   {
+    "trait_type": "Backdrop",
+    "value": "Bubble Tea"
+   },
+   {
+    "trait_type": "Symbol",
+    "value": "Cashflow"
+   },
+   {
+    "trait_type": "Tier",
+    "value": "Epic"
+   },
+   {
+    "trait_type": "Collab",
+    "value": "Bitcoinciaga"
+   }
+  ]
+ },
+ {
+  "id": 10017,
+  "batch": 11,
+  "tier": "Epic",
+  "price_gram": null,
+  "name": "FOAMZ × Bitcoinciaga #17",
+  "description": "Sky & Tangerine doing a Drip Check in the Bitcoinciaga black hoodie and black tee. FOAMZ × Bitcoinciaga collab drop — only 30 exist. FOAMZ — block the noise.",
+  "attributes": [
+   {
+    "trait_type": "Move",
+    "value": "Drip Check"
+   },
+   {
+    "trait_type": "Foam",
+    "value": "Sky"
+   },
+   {
+    "trait_type": "Partner",
+    "value": "Tangerine"
+   },
+   {
+    "trait_type": "Headwear",
+    "value": "None"
+   },
+   {
+    "trait_type": "Eyewear",
+    "value": "Nerd Glasses"
+   },
+   {
+    "trait_type": "Outfit",
+    "value": "Bitcoinciaga Hoodie Black"
+   },
+   {
+    "trait_type": "Partner Outfit",
+    "value": "Bitcoinciaga Tee Black"
+   },
+   {
+    "trait_type": "Backdrop",
+    "value": "Fandango Pop"
+   },
+   {
+    "trait_type": "Symbol",
+    "value": "Stonks"
+   },
+   {
+    "trait_type": "Tier",
+    "value": "Epic"
+   },
+   {
+    "trait_type": "Collab",
+    "value": "Bitcoinciaga"
+   }
+  ]
+ },
+ {
+  "id": 10018,
+  "batch": 11,
+  "tier": "Epic",
+  "price_gram": null,
+  "name": "FOAMZ × Bitcoinciaga #18",
+  "description": "Cloud & Lime doing a Drip Check in the Bitcoinciaga green hoodie and black tee. FOAMZ × Bitcoinciaga collab drop — only 30 exist. FOAMZ — block the noise.",
+  "attributes": [
+   {
+    "trait_type": "Move",
+    "value": "Drip Check"
+   },
+   {
+    "trait_type": "Foam",
+    "value": "Cloud"
+   },
+   {
+    "trait_type": "Partner",
+    "value": "Lime"
+   },
+   {
+    "trait_type": "Headwear",
+    "value": "None"
+   },
+   {
+    "trait_type": "Eyewear",
+    "value": "None"
+   },
+   {
+    "trait_type": "Outfit",
+    "value": "Bitcoinciaga Hoodie Green"
+   },
+   {
+    "trait_type": "Partner Outfit",
+    "value": "Bitcoinciaga Tee Black"
+   },
+   {
+    "trait_type": "Backdrop",
+    "value": "Pistachio"
+   },
+   {
+    "trait_type": "Symbol",
+    "value": "Sparkle"
+   },
+   {
+    "trait_type": "Tier",
+    "value": "Epic"
+   },
+   {
+    "trait_type": "Collab",
+    "value": "Bitcoinciaga"
+   }
+  ]
+ },
+ {
+  "id": 10019,
+  "batch": 11,
+  "tier": "Epic",
+  "price_gram": null,
+  "name": "FOAMZ × Bitcoinciaga #19",
+  "description": "Tangerine & Bubblegum doing a Drip Check in the Bitcoinciaga black hoodie and white tee. FOAMZ × Bitcoinciaga collab drop — only 30 exist. FOAMZ — block the noise.",
+  "attributes": [
+   {
+    "trait_type": "Move",
+    "value": "Drip Check"
+   },
+   {
+    "trait_type": "Foam",
+    "value": "Tangerine"
+   },
+   {
+    "trait_type": "Partner",
+    "value": "Bubblegum"
+   },
+   {
+    "trait_type": "Headwear",
+    "value": "None"
+   },
+   {
+    "trait_type": "Eyewear",
+    "value": "None"
+   },
+   {
+    "trait_type": "Outfit",
+    "value": "Bitcoinciaga Hoodie Black"
+   },
+   {
+    "trait_type": "Partner Outfit",
+    "value": "Bitcoinciaga Tee White"
+   },
+   {
+    "trait_type": "Backdrop",
+    "value": "Periwinkle"
+   },
+   {
+    "trait_type": "Symbol",
+    "value": "Satoshi"
+   },
+   {
+    "trait_type": "Tier",
+    "value": "Epic"
+   },
+   {
+    "trait_type": "Collab",
+    "value": "Bitcoinciaga"
+   }
+  ]
+ },
+ {
+  "id": 10020,
+  "batch": 11,
+  "tier": "Epic",
+  "price_gram": null,
+  "name": "FOAMZ × Bitcoinciaga #20",
+  "description": "Mint & Shiba doing a Drip Check in the Bitcoinciaga green hoodie and white tee. FOAMZ × Bitcoinciaga collab drop — only 30 exist. FOAMZ — block the noise.",
+  "attributes": [
+   {
+    "trait_type": "Move",
+    "value": "Drip Check"
+   },
+   {
+    "trait_type": "Foam",
+    "value": "Mint"
+   },
+   {
+    "trait_type": "Partner",
+    "value": "Shiba"
+   },
+   {
+    "trait_type": "Headwear",
+    "value": "None"
+   },
+   {
+    "trait_type": "Eyewear",
+    "value": "None"
+   },
+   {
+    "trait_type": "Outfit",
+    "value": "Bitcoinciaga Hoodie Green"
+   },
+   {
+    "trait_type": "Partner Outfit",
+    "value": "Bitcoinciaga Tee White"
+   },
+   {
+    "trait_type": "Backdrop",
+    "value": "Salmon Roll"
+   },
+   {
+    "trait_type": "Symbol",
+    "value": "Cashflow"
+   },
+   {
+    "trait_type": "Tier",
+    "value": "Epic"
+   },
+   {
+    "trait_type": "Collab",
+    "value": "Bitcoinciaga"
+   }
+  ]
+ },
+ {
+  "id": 10021,
+  "batch": 11,
+  "tier": "Epic",
+  "price_gram": null,
+  "name": "FOAMZ × Bitcoinciaga #21",
+  "description": "Shiba & Peach doing a Drip Check in the Bitcoinciaga black hoodie and black tee. FOAMZ × Bitcoinciaga collab drop — only 30 exist. FOAMZ — block the noise.",
+  "attributes": [
+   {
+    "trait_type": "Move",
+    "value": "Drip Check"
+   },
+   {
+    "trait_type": "Foam",
+    "value": "Shiba"
+   },
+   {
+    "trait_type": "Partner",
+    "value": "Peach"
+   },
+   {
+    "trait_type": "Headwear",
+    "value": "None"
+   },
+   {
+    "trait_type": "Eyewear",
+    "value": "None"
+   },
+   {
+    "trait_type": "Outfit",
+    "value": "Bitcoinciaga Hoodie Black"
+   },
+   {
+    "trait_type": "Partner Outfit",
+    "value": "Bitcoinciaga Tee Black"
+   },
+   {
+    "trait_type": "Backdrop",
+    "value": "Teal Wave"
+   },
+   {
+    "trait_type": "Symbol",
+    "value": "Stonks"
+   },
+   {
+    "trait_type": "Tier",
+    "value": "Epic"
+   },
+   {
+    "trait_type": "Collab",
+    "value": "Bitcoinciaga"
+   }
+  ]
+ },
+ {
+  "id": 10022,
+  "batch": 11,
+  "tier": "Epic",
+  "price_gram": null,
+  "name": "FOAMZ × Bitcoinciaga #22",
+  "description": "Lemon & Black Shiba doing a Drip Check in the Bitcoinciaga green hoodie and black tee. FOAMZ × Bitcoinciaga collab drop — only 30 exist. FOAMZ — block the noise.",
+  "attributes": [
+   {
+    "trait_type": "Move",
+    "value": "Drip Check"
+   },
+   {
+    "trait_type": "Foam",
+    "value": "Lemon"
+   },
+   {
+    "trait_type": "Partner",
+    "value": "Black Shiba"
+   },
+   {
+    "trait_type": "Headwear",
+    "value": "None"
+   },
+   {
+    "trait_type": "Eyewear",
+    "value": "3D Glasses"
+   },
+   {
+    "trait_type": "Outfit",
+    "value": "Bitcoinciaga Hoodie Green"
+   },
+   {
+    "trait_type": "Partner Outfit",
+    "value": "Bitcoinciaga Tee Black"
+   },
+   {
+    "trait_type": "Backdrop",
+    "value": "Cappuccino"
+   },
+   {
+    "trait_type": "Symbol",
+    "value": "Sparkle"
+   },
+   {
+    "trait_type": "Tier",
+    "value": "Epic"
+   },
+   {
+    "trait_type": "Collab",
+    "value": "Bitcoinciaga"
+   }
+  ]
+ },
+ {
+  "id": 10023,
+  "batch": 11,
+  "tier": "Epic",
+  "price_gram": null,
+  "name": "FOAMZ × Bitcoinciaga #23",
+  "description": "Grape & Mint doing a Drip Check in the Bitcoinciaga black hoodie and white tee. FOAMZ × Bitcoinciaga collab drop — only 30 exist. FOAMZ — block the noise.",
+  "attributes": [
+   {
+    "trait_type": "Move",
+    "value": "Drip Check"
+   },
+   {
+    "trait_type": "Foam",
+    "value": "Grape"
+   },
+   {
+    "trait_type": "Partner",
+    "value": "Mint"
+   },
+   {
+    "trait_type": "Headwear",
+    "value": "None"
+   },
+   {
+    "trait_type": "Eyewear",
+    "value": "None"
+   },
+   {
+    "trait_type": "Outfit",
+    "value": "Bitcoinciaga Hoodie Black"
+   },
+   {
+    "trait_type": "Partner Outfit",
+    "value": "Bitcoinciaga Tee White"
+   },
+   {
+    "trait_type": "Backdrop",
+    "value": "Emerald City"
+   },
+   {
+    "trait_type": "Symbol",
+    "value": "Satoshi"
+   },
+   {
+    "trait_type": "Tier",
+    "value": "Epic"
+   },
+   {
+    "trait_type": "Collab",
+    "value": "Bitcoinciaga"
+   }
+  ]
+ },
+ {
+  "id": 10024,
+  "batch": 11,
+  "tier": "Epic",
+  "price_gram": null,
+  "name": "FOAMZ × Bitcoinciaga #24",
+  "description": "Toxic & Cloud doing a Drip Check in the Bitcoinciaga green hoodie and white tee. FOAMZ × Bitcoinciaga collab drop — only 30 exist. FOAMZ — block the noise.",
+  "attributes": [
+   {
+    "trait_type": "Move",
+    "value": "Drip Check"
+   },
+   {
+    "trait_type": "Foam",
+    "value": "Toxic"
+   },
+   {
+    "trait_type": "Partner",
+    "value": "Cloud"
+   },
+   {
+    "trait_type": "Headwear",
+    "value": "None"
+   },
+   {
+    "trait_type": "Eyewear",
+    "value": "None"
+   },
+   {
+    "trait_type": "Outfit",
+    "value": "Bitcoinciaga Hoodie Green"
+   },
+   {
+    "trait_type": "Partner Outfit",
+    "value": "Bitcoinciaga Tee White"
+   },
+   {
+    "trait_type": "Backdrop",
+    "value": "Steel Blue"
+   },
+   {
+    "trait_type": "Symbol",
+    "value": "Cashflow"
+   },
+   {
+    "trait_type": "Tier",
+    "value": "Epic"
+   },
+   {
+    "trait_type": "Collab",
+    "value": "Bitcoinciaga"
+   }
+  ]
+ },
+ {
+  "id": 10025,
+  "batch": 11,
+  "tier": "Epic",
+  "price_gram": null,
+  "name": "FOAMZ × Bitcoinciaga #25",
+  "description": "Bubblegum & Lime doing a Drip Check in the Bitcoinciaga black hoodie and black tee. FOAMZ × Bitcoinciaga collab drop — only 30 exist. FOAMZ — block the noise.",
+  "attributes": [
+   {
+    "trait_type": "Move",
+    "value": "Drip Check"
+   },
+   {
+    "trait_type": "Foam",
+    "value": "Bubblegum"
+   },
+   {
+    "trait_type": "Partner",
+    "value": "Lime"
+   },
+   {
+    "trait_type": "Headwear",
+    "value": "None"
+   },
+   {
+    "trait_type": "Eyewear",
+    "value": "None"
+   },
+   {
+    "trait_type": "Outfit",
+    "value": "Bitcoinciaga Hoodie Black"
+   },
+   {
+    "trait_type": "Partner Outfit",
+    "value": "Bitcoinciaga Tee Black"
+   },
+   {
+    "trait_type": "Backdrop",
+    "value": "Tomato Soup"
+   },
+   {
+    "trait_type": "Symbol",
+    "value": "Stonks"
+   },
+   {
+    "trait_type": "Tier",
+    "value": "Epic"
+   },
+   {
+    "trait_type": "Collab",
+    "value": "Bitcoinciaga"
+   }
+  ]
+ },
+ {
+  "id": 10026,
+  "batch": 11,
+  "tier": "Epic",
+  "price_gram": null,
+  "name": "FOAMZ × Bitcoinciaga #26",
+  "description": "Sky & Coral doing a Drip Check in the Bitcoinciaga green hoodie and black tee. FOAMZ × Bitcoinciaga collab drop — only 30 exist. FOAMZ — block the noise.",
+  "attributes": [
+   {
+    "trait_type": "Move",
+    "value": "Drip Check"
+   },
+   {
+    "trait_type": "Foam",
+    "value": "Sky"
+   },
+   {
+    "trait_type": "Partner",
+    "value": "Coral"
+   },
+   {
+    "trait_type": "Headwear",
+    "value": "None"
+   },
+   {
+    "trait_type": "Eyewear",
+    "value": "Visor"
+   },
+   {
+    "trait_type": "Outfit",
+    "value": "Bitcoinciaga Hoodie Green"
+   },
+   {
+    "trait_type": "Partner Outfit",
+    "value": "Bitcoinciaga Tee Black"
+   },
+   {
+    "trait_type": "Backdrop",
+    "value": "Lavender Haze"
+   },
+   {
+    "trait_type": "Symbol",
+    "value": "Sparkle"
+   },
+   {
+    "trait_type": "Tier",
+    "value": "Epic"
+   },
+   {
+    "trait_type": "Collab",
+    "value": "Bitcoinciaga"
+   }
+  ]
+ },
+ {
+  "id": 10027,
+  "batch": 11,
+  "tier": "Epic",
+  "price_gram": null,
+  "name": "FOAMZ × Bitcoinciaga #27",
+  "description": "Peach & Grape doing a Drip Check in the Bitcoinciaga black hoodie and white tee. FOAMZ × Bitcoinciaga collab drop — only 30 exist. FOAMZ — block the noise.",
+  "attributes": [
+   {
+    "trait_type": "Move",
+    "value": "Drip Check"
+   },
+   {
+    "trait_type": "Foam",
+    "value": "Peach"
+   },
+   {
+    "trait_type": "Partner",
+    "value": "Grape"
+   },
+   {
+    "trait_type": "Headwear",
+    "value": "None"
+   },
+   {
+    "trait_type": "Eyewear",
+    "value": "None"
+   },
+   {
+    "trait_type": "Outfit",
+    "value": "Bitcoinciaga Hoodie Black"
+   },
+   {
+    "trait_type": "Partner Outfit",
+    "value": "Bitcoinciaga Tee White"
+   },
+   {
+    "trait_type": "Backdrop",
+    "value": "Candy Crush"
+   },
+   {
+    "trait_type": "Symbol",
+    "value": "Satoshi"
+   },
+   {
+    "trait_type": "Tier",
+    "value": "Epic"
+   },
+   {
+    "trait_type": "Collab",
+    "value": "Bitcoinciaga"
+   }
+  ]
+ },
+ {
+  "id": 10028,
+  "batch": 11,
+  "tier": "Epic",
+  "price_gram": null,
+  "name": "FOAMZ × Bitcoinciaga #28",
+  "description": "Fire & Lemon doing a Drip Check in the Bitcoinciaga green hoodie and white tee. FOAMZ × Bitcoinciaga collab drop — only 30 exist. FOAMZ — block the noise.",
+  "attributes": [
+   {
+    "trait_type": "Move",
+    "value": "Drip Check"
+   },
+   {
+    "trait_type": "Foam",
+    "value": "Fire"
+   },
+   {
+    "trait_type": "Partner",
+    "value": "Lemon"
+   },
+   {
+    "trait_type": "Headwear",
+    "value": "None"
+   },
+   {
+    "trait_type": "Eyewear",
+    "value": "None"
+   },
+   {
+    "trait_type": "Outfit",
+    "value": "Bitcoinciaga Hoodie Green"
+   },
+   {
+    "trait_type": "Partner Outfit",
+    "value": "Bitcoinciaga Tee White"
+   },
+   {
+    "trait_type": "Backdrop",
+    "value": "Electric Violet"
+   },
+   {
+    "trait_type": "Symbol",
+    "value": "Cashflow"
+   },
+   {
+    "trait_type": "Tier",
+    "value": "Epic"
+   },
+   {
+    "trait_type": "Collab",
+    "value": "Bitcoinciaga"
+   }
+  ]
+ },
+ {
+  "id": 10029,
+  "batch": 11,
+  "tier": "Epic",
+  "price_gram": null,
+  "name": "FOAMZ × Bitcoinciaga #29",
+  "description": "Ice & Tangerine doing a Drip Check in the Bitcoinciaga black hoodie and black tee. FOAMZ × Bitcoinciaga collab drop — only 30 exist. FOAMZ — block the noise.",
+  "attributes": [
+   {
+    "trait_type": "Move",
+    "value": "Drip Check"
+   },
+   {
+    "trait_type": "Foam",
+    "value": "Ice"
+   },
+   {
+    "trait_type": "Partner",
+    "value": "Tangerine"
+   },
+   {
+    "trait_type": "Headwear",
+    "value": "None"
+   },
+   {
+    "trait_type": "Eyewear",
+    "value": "Monocle"
+   },
+   {
+    "trait_type": "Outfit",
+    "value": "Bitcoinciaga Hoodie Black"
+   },
+   {
+    "trait_type": "Partner Outfit",
+    "value": "Bitcoinciaga Tee Black"
+   },
+   {
+    "trait_type": "Backdrop",
+    "value": "Grape Soda"
+   },
+   {
+    "trait_type": "Symbol",
+    "value": "Stonks"
+   },
+   {
+    "trait_type": "Tier",
+    "value": "Epic"
+   },
+   {
+    "trait_type": "Collab",
+    "value": "Bitcoinciaga"
+   }
+  ]
+ },
+ {
+  "id": 10030,
+  "batch": 11,
+  "tier": "Epic",
+  "price_gram": null,
+  "name": "FOAMZ × Bitcoinciaga #30",
+  "description": "Black Shiba & Sky doing a Drip Check in the Bitcoinciaga green hoodie and black tee. FOAMZ × Bitcoinciaga collab drop — only 30 exist. FOAMZ — block the noise.",
+  "attributes": [
+   {
+    "trait_type": "Move",
+    "value": "Drip Check"
+   },
+   {
+    "trait_type": "Foam",
+    "value": "Black Shiba"
+   },
+   {
+    "trait_type": "Partner",
+    "value": "Sky"
+   },
+   {
+    "trait_type": "Headwear",
+    "value": "None"
+   },
+   {
+    "trait_type": "Eyewear",
+    "value": "None"
+   },
+   {
+    "trait_type": "Outfit",
+    "value": "Bitcoinciaga Hoodie Green"
+   },
+   {
+    "trait_type": "Partner Outfit",
+    "value": "Bitcoinciaga Tee Black"
+   },
+   {
+    "trait_type": "Backdrop",
+    "value": "Deep Sea"
+   },
+   {
+    "trait_type": "Symbol",
+    "value": "Sparkle"
+   },
+   {
+    "trait_type": "Tier",
+    "value": "Epic"
    },
    {
     "trait_type": "Collab",
