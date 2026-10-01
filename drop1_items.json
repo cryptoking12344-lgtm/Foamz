@@ -1,5 +1,1183 @@
 [
  {
+  "id": 1,
+  "batch": 0,
+  "tier": "Mythic",
+  "price_gram": null,
+  "name": "FOAMZ #1 · The Golden Moon",
+  "description": "Gold doing To The Moon on a Gold Rush backdrop. FOAMZ — block the noise. Squish, chill, repeat.",
+  "attributes": [
+   {
+    "trait_type": "Move",
+    "value": "To The Moon"
+   },
+   {
+    "trait_type": "Foam",
+    "value": "Gold"
+   },
+   {
+    "trait_type": "Headwear",
+    "value": "Crown"
+   },
+   {
+    "trait_type": "Eyewear",
+    "value": "Laser Eyes"
+   },
+   {
+    "trait_type": "Outfit",
+    "value": "None"
+   },
+   {
+    "trait_type": "Backdrop",
+    "value": "Gold Rush"
+   },
+   {
+    "trait_type": "Symbol",
+    "value": "Royal"
+   },
+   {
+    "trait_type": "Tier",
+    "value": "Mythic"
+   },
+   {
+    "trait_type": "1 of 1",
+    "value": "The Golden Moon"
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "batch": 0,
+  "tier": "Mythic",
+  "price_gram": null,
+  "name": "FOAMZ #2 · Satoshi's Chain",
+  "description": "Gold doing Bitcoin Bling on a Black Hole backdrop. FOAMZ — block the noise. Squish, chill, repeat.",
+  "attributes": [
+   {
+    "trait_type": "Move",
+    "value": "Bitcoin Bling"
+   },
+   {
+    "trait_type": "Foam",
+    "value": "Gold"
+   },
+   {
+    "trait_type": "Headwear",
+    "value": "Crown"
+   },
+   {
+    "trait_type": "Eyewear",
+    "value": "Shades"
+   },
+   {
+    "trait_type": "Outfit",
+    "value": "None"
+   },
+   {
+    "trait_type": "Backdrop",
+    "value": "Black Hole"
+   },
+   {
+    "trait_type": "Symbol",
+    "value": "Satoshi"
+   },
+   {
+    "trait_type": "Tier",
+    "value": "Mythic"
+   },
+   {
+    "trait_type": "1 of 1",
+    "value": "Satoshi's Chain"
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "batch": 0,
+  "tier": "Mythic",
+  "price_gram": null,
+  "name": "FOAMZ #3 · Gram Whale",
+  "description": "Diamond doing Gram Rain on a Aurora backdrop. FOAMZ — block the noise. Squish, chill, repeat.",
+  "attributes": [
+   {
+    "trait_type": "Move",
+    "value": "Gram Rain"
+   },
+   {
+    "trait_type": "Foam",
+    "value": "Diamond"
+   },
+   {
+    "trait_type": "Headwear",
+    "value": "Halo"
+   },
+   {
+    "trait_type": "Eyewear",
+    "value": "Shades"
+   },
+   {
+    "trait_type": "Outfit",
+    "value": "None"
+   },
+   {
+    "trait_type": "Backdrop",
+    "value": "Aurora"
+   },
+   {
+    "trait_type": "Symbol",
+    "value": "Gram"
+   },
+   {
+    "trait_type": "Tier",
+    "value": "Mythic"
+   },
+   {
+    "trait_type": "1 of 1",
+    "value": "Gram Whale"
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "batch": 0,
+  "tier": "Mythic",
+  "price_gram": null,
+  "name": "FOAMZ #4 · Diamond Diamond Hands",
+  "description": "Diamond doing Diamond Hands on a Aurora backdrop. FOAMZ — block the noise. Squish, chill, repeat.",
+  "attributes": [
+   {
+    "trait_type": "Move",
+    "value": "Diamond Hands"
+   },
+   {
+    "trait_type": "Foam",
+    "value": "Diamond"
+   },
+   {
+    "trait_type": "Headwear",
+    "value": "Halo"
+   },
+   {
+    "trait_type": "Eyewear",
+    "value": "Monocle"
+   },
+   {
+    "trait_type": "Outfit",
+    "value": "None"
+   },
+   {
+    "trait_type": "Backdrop",
+    "value": "Aurora"
+   },
+   {
+    "trait_type": "Symbol",
+    "value": "Ice Rock"
+   },
+   {
+    "trait_type": "Tier",
+    "value": "Mythic"
+   },
+   {
+    "trait_type": "1 of 1",
+    "value": "Diamond Diamond Hands"
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "batch": 0,
+  "tier": "Mythic",
+  "price_gram": null,
+  "name": "FOAMZ #5 · Lambo Day",
+  "description": "Gold doing Wen Lambo on a Gold Rush backdrop. FOAMZ — block the noise. Squish, chill, repeat.",
+  "attributes": [
+   {
+    "trait_type": "Move",
+    "value": "Wen Lambo"
+   },
+   {
+    "trait_type": "Foam",
+    "value": "Gold"
+   },
+   {
+    "trait_type": "Headwear",
+    "value": "None"
+   },
+   {
+    "trait_type": "Eyewear",
+    "value": "Shades"
+   },
+   {
+    "trait_type": "Outfit",
+    "value": "None"
+   },
+   {
+    "trait_type": "Backdrop",
+    "value": "Gold Rush"
+   },
+   {
+    "trait_type": "Symbol",
+    "value": "Cashflow"
+   },
+   {
+    "trait_type": "Tier",
+    "value": "Mythic"
+   },
+   {
+    "trait_type": "1 of 1",
+    "value": "Lambo Day"
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "batch": 0,
+  "tier": "Mythic",
+  "price_gram": null,
+  "name": "FOAMZ #6 · Gold vs Gold",
+  "description": "Gold & Gold doing Punch Out on a Black Hole backdrop. FOAMZ — block the noise. Squish, chill, repeat.",
+  "attributes": [
+   {
+    "trait_type": "Move",
+    "value": "Punch Out"
+   },
+   {
+    "trait_type": "Foam",
+    "value": "Gold"
+   },
+   {
+    "trait_type": "Partner",
+    "value": "Gold"
+   },
+   {
+    "trait_type": "Headwear",
+    "value": "Crown"
+   },
+   {
+    "trait_type": "Eyewear",
+    "value": "None"
+   },
+   {
+    "trait_type": "Outfit",
+    "value": "None"
+   },
+   {
+    "trait_type": "Backdrop",
+    "value": "Black Hole"
+   },
+   {
+    "trait_type": "Symbol",
+    "value": "Royal"
+   },
+   {
+    "trait_type": "Tier",
+    "value": "Mythic"
+   },
+   {
+    "trait_type": "1 of 1",
+    "value": "Gold vs Gold"
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "batch": 0,
+  "tier": "Mythic",
+  "price_gram": null,
+  "name": "FOAMZ #7 · True Love",
+  "description": "Holo & Diamond doing Love Boop on a Candy Crush backdrop. FOAMZ — block the noise. Squish, chill, repeat.",
+  "attributes": [
+   {
+    "trait_type": "Move",
+    "value": "Love Boop"
+   },
+   {
+    "trait_type": "Foam",
+    "value": "Holo"
+   },
+   {
+    "trait_type": "Partner",
+    "value": "Diamond"
+   },
+   {
+    "trait_type": "Headwear",
+    "value": "Halo"
+   },
+   {
+    "trait_type": "Eyewear",
+    "value": "None"
+   },
+   {
+    "trait_type": "Outfit",
+    "value": "None"
+   },
+   {
+    "trait_type": "Backdrop",
+    "value": "Candy Crush"
+   },
+   {
+    "trait_type": "Symbol",
+    "value": "Heartbeat"
+   },
+   {
+    "trait_type": "Tier",
+    "value": "Mythic"
+   },
+   {
+    "trait_type": "1 of 1",
+    "value": "True Love"
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "batch": 0,
+  "tier": "Mythic",
+  "price_gram": null,
+  "name": "FOAMZ #8 · Rug Survivor",
+  "description": "Galaxy doing Rug Pull on a Black Hole backdrop. FOAMZ — block the noise. Squish, chill, repeat.",
+  "attributes": [
+   {
+    "trait_type": "Move",
+    "value": "Rug Pull"
+   },
+   {
+    "trait_type": "Foam",
+    "value": "Galaxy"
+   },
+   {
+    "trait_type": "Headwear",
+    "value": "Halo"
+   },
+   {
+    "trait_type": "Eyewear",
+    "value": "Laser Eyes"
+   },
+   {
+    "trait_type": "Outfit",
+    "value": "None"
+   },
+   {
+    "trait_type": "Backdrop",
+    "value": "Black Hole"
+   },
+   {
+    "trait_type": "Symbol",
+    "value": "Volt"
+   },
+   {
+    "trait_type": "Tier",
+    "value": "Mythic"
+   },
+   {
+    "trait_type": "1 of 1",
+    "value": "Rug Survivor"
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "batch": 0,
+  "tier": "Mythic",
+  "price_gram": null,
+  "name": "FOAMZ #9 · Printer Goes Brrr",
+  "description": "Gold doing Money Printer on a Gold Rush backdrop. FOAMZ — block the noise. Squish, chill, repeat.",
+  "attributes": [
+   {
+    "trait_type": "Move",
+    "value": "Money Printer"
+   },
+   {
+    "trait_type": "Foam",
+    "value": "Gold"
+   },
+   {
+    "trait_type": "Headwear",
+    "value": "Crown"
+   },
+   {
+    "trait_type": "Eyewear",
+    "value": "Monocle"
+   },
+   {
+    "trait_type": "Outfit",
+    "value": "None"
+   },
+   {
+    "trait_type": "Backdrop",
+    "value": "Gold Rush"
+   },
+   {
+    "trait_type": "Symbol",
+    "value": "Cashflow"
+   },
+   {
+    "trait_type": "Tier",
+    "value": "Mythic"
+   },
+   {
+    "trait_type": "1 of 1",
+    "value": "Printer Goes Brrr"
+   }
+  ]
+ },
+ {
+  "id": 10,
+  "batch": 0,
+  "tier": "Mythic",
+  "price_gram": null,
+  "name": "FOAMZ #10 · Block The Noise",
+  "description": "Diamond doing Walk Away on a Aurora backdrop. FOAMZ — block the noise. Squish, chill, repeat.",
+  "attributes": [
+   {
+    "trait_type": "Move",
+    "value": "Walk Away"
+   },
+   {
+    "trait_type": "Foam",
+    "value": "Diamond"
+   },
+   {
+    "trait_type": "Headwear",
+    "value": "Headphones"
+   },
+   {
+    "trait_type": "Eyewear",
+    "value": "None"
+   },
+   {
+    "trait_type": "Outfit",
+    "value": "None"
+   },
+   {
+    "trait_type": "Backdrop",
+    "value": "Aurora"
+   },
+   {
+    "trait_type": "Symbol",
+    "value": "Hush"
+   },
+   {
+    "trait_type": "Tier",
+    "value": "Mythic"
+   },
+   {
+    "trait_type": "1 of 1",
+    "value": "Block The Noise"
+   }
+  ]
+ },
+ {
+  "id": 11,
+  "batch": 0,
+  "tier": "Mythic",
+  "price_gram": null,
+  "name": "FOAMZ #11 · Oud Royale",
+  "description": "Gold doing Oud & Bakhoor on a Gold Rush backdrop. FOAMZ — block the noise. Squish, chill, repeat.",
+  "attributes": [
+   {
+    "trait_type": "Move",
+    "value": "Oud & Bakhoor"
+   },
+   {
+    "trait_type": "Foam",
+    "value": "Gold"
+   },
+   {
+    "trait_type": "Headwear",
+    "value": "Ghutra"
+   },
+   {
+    "trait_type": "Eyewear",
+    "value": "None"
+   },
+   {
+    "trait_type": "Outfit",
+    "value": "Kandura"
+   },
+   {
+    "trait_type": "Backdrop",
+    "value": "Gold Rush"
+   },
+   {
+    "trait_type": "Symbol",
+    "value": "Royal"
+   },
+   {
+    "trait_type": "Tier",
+    "value": "Mythic"
+   },
+   {
+    "trait_type": "1 of 1",
+    "value": "Oud Royale"
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "batch": 0,
+  "tier": "Mythic",
+  "price_gram": null,
+  "name": "FOAMZ #12 · Much Wow",
+  "description": "Shiba doing Bitcoin Bling on a Gold Rush backdrop. FOAMZ — block the noise. Squish, chill, repeat.",
+  "attributes": [
+   {
+    "trait_type": "Move",
+    "value": "Bitcoin Bling"
+   },
+   {
+    "trait_type": "Foam",
+    "value": "Shiba"
+   },
+   {
+    "trait_type": "Headwear",
+    "value": "None"
+   },
+   {
+    "trait_type": "Eyewear",
+    "value": "Shades"
+   },
+   {
+    "trait_type": "Outfit",
+    "value": "None"
+   },
+   {
+    "trait_type": "Backdrop",
+    "value": "Gold Rush"
+   },
+   {
+    "trait_type": "Symbol",
+    "value": "Satoshi"
+   },
+   {
+    "trait_type": "Tier",
+    "value": "Mythic"
+   },
+   {
+    "trait_type": "1 of 1",
+    "value": "Much Wow"
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "batch": 0,
+  "tier": "Mythic",
+  "price_gram": null,
+  "name": "FOAMZ #13 · Aura Lord",
+  "description": "Diamond doing Aura Farming on a Aurora backdrop. FOAMZ — block the noise. Squish, chill, repeat.",
+  "attributes": [
+   {
+    "trait_type": "Move",
+    "value": "Aura Farming"
+   },
+   {
+    "trait_type": "Foam",
+    "value": "Diamond"
+   },
+   {
+    "trait_type": "Headwear",
+    "value": "Halo"
+   },
+   {
+    "trait_type": "Eyewear",
+    "value": "Shades"
+   },
+   {
+    "trait_type": "Outfit",
+    "value": "None"
+   },
+   {
+    "trait_type": "Backdrop",
+    "value": "Aurora"
+   },
+   {
+    "trait_type": "Symbol",
+    "value": "Sparkle"
+   },
+   {
+    "trait_type": "Tier",
+    "value": "Mythic"
+   },
+   {
+    "trait_type": "1 of 1",
+    "value": "Aura Lord"
+   }
+  ]
+ },
+ {
+  "id": 14,
+  "batch": 0,
+  "tier": "Mythic",
+  "price_gram": null,
+  "name": "FOAMZ #14 · Genesis 2027",
+  "description": "Holo doing Hello 2027 on a Neon Night backdrop. FOAMZ — block the noise. Squish, chill, repeat.",
+  "attributes": [
+   {
+    "trait_type": "Move",
+    "value": "Hello 2027"
+   },
+   {
+    "trait_type": "Foam",
+    "value": "Holo"
+   },
+   {
+    "trait_type": "Headwear",
+    "value": "Crown"
+   },
+   {
+    "trait_type": "Eyewear",
+    "value": "None"
+   },
+   {
+    "trait_type": "Outfit",
+    "value": "None"
+   },
+   {
+    "trait_type": "Backdrop",
+    "value": "Neon Night"
+   },
+   {
+    "trait_type": "Symbol",
+    "value": "Starlet"
+   },
+   {
+    "trait_type": "Tier",
+    "value": "Mythic"
+   },
+   {
+    "trait_type": "1 of 1",
+    "value": "Genesis 2027"
+   }
+  ]
+ },
+ {
+  "id": 21,
+  "batch": 0,
+  "tier": "Mythic",
+  "price_gram": null,
+  "name": "FOAMZ #21 · Royal Wedding",
+  "description": "Gold & Diamond doing Wedding Day on a Gold Rush backdrop. FOAMZ — block the noise. Squish, chill, repeat.",
+  "attributes": [
+   {
+    "trait_type": "Move",
+    "value": "Wedding Day"
+   },
+   {
+    "trait_type": "Foam",
+    "value": "Gold"
+   },
+   {
+    "trait_type": "Partner",
+    "value": "Diamond"
+   },
+   {
+    "trait_type": "Headwear",
+    "value": "Top Hat"
+   },
+   {
+    "trait_type": "Eyewear",
+    "value": "None"
+   },
+   {
+    "trait_type": "Outfit",
+    "value": "Tux"
+   },
+   {
+    "trait_type": "Backdrop",
+    "value": "Gold Rush"
+   },
+   {
+    "trait_type": "Symbol",
+    "value": "Heartbeat"
+   },
+   {
+    "trait_type": "Tier",
+    "value": "Mythic"
+   },
+   {
+    "trait_type": "1 of 1",
+    "value": "Royal Wedding"
+   }
+  ]
+ },
+ {
+  "id": 25,
+  "batch": 0,
+  "tier": "Mythic",
+  "price_gram": null,
+  "name": "FOAMZ #25 · Souk Royale",
+  "description": "Gold & Bubblegum doing Gold Souk on a Black Gold backdrop. FOAMZ — block the noise. Squish, chill, repeat.",
+  "attributes": [
+   {
+    "trait_type": "Move",
+    "value": "Gold Souk"
+   },
+   {
+    "trait_type": "Foam",
+    "value": "Gold"
+   },
+   {
+    "trait_type": "Partner",
+    "value": "Bubblegum"
+   },
+   {
+    "trait_type": "Headwear",
+    "value": "Ghutra"
+   },
+   {
+    "trait_type": "Eyewear",
+    "value": "None"
+   },
+   {
+    "trait_type": "Outfit",
+    "value": "Kandura"
+   },
+   {
+    "trait_type": "Backdrop",
+    "value": "Black Gold"
+   },
+   {
+    "trait_type": "Symbol",
+    "value": "Royal"
+   },
+   {
+    "trait_type": "Tier",
+    "value": "Mythic"
+   },
+   {
+    "trait_type": "1 of 1",
+    "value": "Souk Royale"
+   }
+  ]
+ },
+ {
+  "id": 28,
+  "batch": 0,
+  "tier": "Mythic",
+  "price_gram": null,
+  "name": "FOAMZ #28 · Sultan's Smoke",
+  "description": "Chrome & Gold doing Shisha Chill on a Burgundy Velvet backdrop. FOAMZ — block the noise. Squish, chill, repeat.",
+  "attributes": [
+   {
+    "trait_type": "Move",
+    "value": "Shisha Chill"
+   },
+   {
+    "trait_type": "Foam",
+    "value": "Chrome"
+   },
+   {
+    "trait_type": "Partner",
+    "value": "Gold"
+   },
+   {
+    "trait_type": "Headwear",
+    "value": "Crown"
+   },
+   {
+    "trait_type": "Eyewear",
+    "value": "None"
+   },
+   {
+    "trait_type": "Outfit",
+    "value": "None"
+   },
+   {
+    "trait_type": "Backdrop",
+    "value": "Burgundy Velvet"
+   },
+   {
+    "trait_type": "Symbol",
+    "value": "Crescent"
+   },
+   {
+    "trait_type": "Tier",
+    "value": "Mythic"
+   },
+   {
+    "trait_type": "1 of 1",
+    "value": "Sultan's Smoke"
+   }
+  ]
+ },
+ {
+  "id": 32,
+  "batch": 0,
+  "tier": "Mythic",
+  "price_gram": null,
+  "name": "FOAMZ #32 · Toasted Legend",
+  "description": "Galaxy & Fire doing Laser Duel on a Black Hole backdrop. FOAMZ — block the noise. Squish, chill, repeat.",
+  "attributes": [
+   {
+    "trait_type": "Move",
+    "value": "Laser Duel"
+   },
+   {
+    "trait_type": "Foam",
+    "value": "Galaxy"
+   },
+   {
+    "trait_type": "Partner",
+    "value": "Fire"
+   },
+   {
+    "trait_type": "Headwear",
+    "value": "None"
+   },
+   {
+    "trait_type": "Eyewear",
+    "value": "Visor"
+   },
+   {
+    "trait_type": "Outfit",
+    "value": "None"
+   },
+   {
+    "trait_type": "Backdrop",
+    "value": "Black Hole"
+   },
+   {
+    "trait_type": "Symbol",
+    "value": "Volt"
+   },
+   {
+    "trait_type": "Tier",
+    "value": "Mythic"
+   },
+   {
+    "trait_type": "1 of 1",
+    "value": "Toasted Legend"
+   }
+  ]
+ },
+ {
+  "id": 33,
+  "batch": 0,
+  "tier": "Mythic",
+  "price_gram": null,
+  "name": "FOAMZ #33 · Night Falcon",
+  "description": "Diamond doing Falcon on a Night Mode backdrop. FOAMZ — block the noise. Squish, chill, repeat.",
+  "attributes": [
+   {
+    "trait_type": "Move",
+    "value": "Falcon"
+   },
+   {
+    "trait_type": "Foam",
+    "value": "Diamond"
+   },
+   {
+    "trait_type": "Headwear",
+    "value": "Ghutra"
+   },
+   {
+    "trait_type": "Eyewear",
+    "value": "None"
+   },
+   {
+    "trait_type": "Outfit",
+    "value": "Kandura"
+   },
+   {
+    "trait_type": "Backdrop",
+    "value": "Night Mode"
+   },
+   {
+    "trait_type": "Symbol",
+    "value": "Crescent"
+   },
+   {
+    "trait_type": "Tier",
+    "value": "Mythic"
+   },
+   {
+    "trait_type": "1 of 1",
+    "value": "Night Falcon"
+   }
+  ]
+ },
+ {
+  "id": 39,
+  "batch": 0,
+  "tier": "Mythic",
+  "price_gram": null,
+  "name": "FOAMZ #39 · Golden Christmas",
+  "description": "Gold doing Merry Xmas on a Emerald City backdrop. FOAMZ — block the noise. Squish, chill, repeat.",
+  "attributes": [
+   {
+    "trait_type": "Move",
+    "value": "Merry Xmas"
+   },
+   {
+    "trait_type": "Foam",
+    "value": "Gold"
+   },
+   {
+    "trait_type": "Headwear",
+    "value": "Santa Hat"
+   },
+   {
+    "trait_type": "Eyewear",
+    "value": "None"
+   },
+   {
+    "trait_type": "Outfit",
+    "value": "None"
+   },
+   {
+    "trait_type": "Backdrop",
+    "value": "Emerald City"
+   },
+   {
+    "trait_type": "Symbol",
+    "value": "Sparkle"
+   },
+   {
+    "trait_type": "Tier",
+    "value": "Mythic"
+   },
+   {
+    "trait_type": "1 of 1",
+    "value": "Golden Christmas"
+   }
+  ]
+ },
+ {
+  "id": 43,
+  "batch": 0,
+  "tier": "Mythic",
+  "price_gram": null,
+  "name": "FOAMZ #43 · Diamond Snow",
+  "description": "Diamond doing Merry Xmas on a Night Mode backdrop. FOAMZ — block the noise. Squish, chill, repeat.",
+  "attributes": [
+   {
+    "trait_type": "Move",
+    "value": "Merry Xmas"
+   },
+   {
+    "trait_type": "Foam",
+    "value": "Diamond"
+   },
+   {
+    "trait_type": "Headwear",
+    "value": "Santa Hat"
+   },
+   {
+    "trait_type": "Eyewear",
+    "value": "None"
+   },
+   {
+    "trait_type": "Outfit",
+    "value": "None"
+   },
+   {
+    "trait_type": "Backdrop",
+    "value": "Night Mode"
+   },
+   {
+    "trait_type": "Symbol",
+    "value": "Frost"
+   },
+   {
+    "trait_type": "Tier",
+    "value": "Mythic"
+   },
+   {
+    "trait_type": "1 of 1",
+    "value": "Diamond Snow"
+   }
+  ]
+ },
+ {
+  "id": 46,
+  "batch": 0,
+  "tier": "Mythic",
+  "price_gram": null,
+  "name": "FOAMZ #46 · Caught Red-Handed",
+  "description": "Gold & Diamond doing Busted on a Burgundy Velvet backdrop. FOAMZ — block the noise. Squish, chill, repeat.",
+  "attributes": [
+   {
+    "trait_type": "Move",
+    "value": "Busted"
+   },
+   {
+    "trait_type": "Foam",
+    "value": "Gold"
+   },
+   {
+    "trait_type": "Partner",
+    "value": "Diamond"
+   },
+   {
+    "trait_type": "Headwear",
+    "value": "Crown"
+   },
+   {
+    "trait_type": "Eyewear",
+    "value": "None"
+   },
+   {
+    "trait_type": "Outfit",
+    "value": "None"
+   },
+   {
+    "trait_type": "Backdrop",
+    "value": "Burgundy Velvet"
+   },
+   {
+    "trait_type": "Symbol",
+    "value": "Heartbeat"
+   },
+   {
+    "trait_type": "Tier",
+    "value": "Mythic"
+   },
+   {
+    "trait_type": "1 of 1",
+    "value": "Caught Red-Handed"
+   }
+  ]
+ },
+ {
+  "id": 48,
+  "batch": 0,
+  "tier": "Mythic",
+  "price_gram": null,
+  "name": "FOAMZ #48 · World Tour",
+  "description": "Holo doing Wanderlust on a Aurora backdrop. FOAMZ — block the noise. Squish, chill, repeat.",
+  "attributes": [
+   {
+    "trait_type": "Move",
+    "value": "Wanderlust"
+   },
+   {
+    "trait_type": "Foam",
+    "value": "Holo"
+   },
+   {
+    "trait_type": "Headwear",
+    "value": "Gem Cap"
+   },
+   {
+    "trait_type": "Eyewear",
+    "value": "Shades"
+   },
+   {
+    "trait_type": "Outfit",
+    "value": "None"
+   },
+   {
+    "trait_type": "Backdrop",
+    "value": "Aurora"
+   },
+   {
+    "trait_type": "Symbol",
+    "value": "Cumulus"
+   },
+   {
+    "trait_type": "Tier",
+    "value": "Mythic"
+   },
+   {
+    "trait_type": "1 of 1",
+    "value": "World Tour"
+   }
+  ]
+ },
+ {
+  "id": 51,
+  "batch": 0,
+  "tier": "Mythic",
+  "price_gram": null,
+  "name": "FOAMZ #51 · Candy Crown",
+  "description": "Diamond doing Lollipop on a Candy Crush backdrop. FOAMZ — block the noise. Squish, chill, repeat.",
+  "attributes": [
+   {
+    "trait_type": "Move",
+    "value": "Lollipop"
+   },
+   {
+    "trait_type": "Foam",
+    "value": "Diamond"
+   },
+   {
+    "trait_type": "Headwear",
+    "value": "Crown"
+   },
+   {
+    "trait_type": "Eyewear",
+    "value": "None"
+   },
+   {
+    "trait_type": "Outfit",
+    "value": "None"
+   },
+   {
+    "trait_type": "Backdrop",
+    "value": "Candy Crush"
+   },
+   {
+    "trait_type": "Symbol",
+    "value": "Heartbeat"
+   },
+   {
+    "trait_type": "Tier",
+    "value": "Mythic"
+   },
+   {
+    "trait_type": "1 of 1",
+    "value": "Candy Crown"
+   }
+  ]
+ },
+ {
+  "id": 53,
+  "batch": 0,
+  "tier": "Mythic",
+  "price_gram": null,
+  "name": "FOAMZ #53 · Fear Factor",
+  "description": "Gold doing Scaredy Foam on a Black Gold backdrop. FOAMZ — block the noise. Squish, chill, repeat.",
+  "attributes": [
+   {
+    "trait_type": "Move",
+    "value": "Scaredy Foam"
+   },
+   {
+    "trait_type": "Foam",
+    "value": "Gold"
+   },
+   {
+    "trait_type": "Headwear",
+    "value": "Halo"
+   },
+   {
+    "trait_type": "Eyewear",
+    "value": "None"
+   },
+   {
+    "trait_type": "Outfit",
+    "value": "None"
+   },
+   {
+    "trait_type": "Backdrop",
+    "value": "Black Gold"
+   },
+   {
+    "trait_type": "Symbol",
+    "value": "Crescent"
+   },
+   {
+    "trait_type": "Tier",
+    "value": "Mythic"
+   },
+   {
+    "trait_type": "1 of 1",
+    "value": "Fear Factor"
+   }
+  ]
+ },
+ {
   "id": 27,
   "batch": 1,
   "tier": "Common",
@@ -42848,148 +44026,6 @@
    {
     "trait_type": "Tier",
     "value": "Common"
-   }
-  ]
- },
- {
-  "id": 1,
-  "batch": 0,
-  "tier": "Mythic",
-  "price_gram": null,
-  "name": "FOAMZ #1 · The Golden Moon",
-  "description": "Gold doing To The Moon on a Gold Rush backdrop. FOAMZ — block the noise. Squish, chill, repeat.",
-  "attributes": [
-   {
-    "trait_type": "Move",
-    "value": "To The Moon"
-   },
-   {
-    "trait_type": "Foam",
-    "value": "Gold"
-   },
-   {
-    "trait_type": "Headwear",
-    "value": "Crown"
-   },
-   {
-    "trait_type": "Eyewear",
-    "value": "Laser Eyes"
-   },
-   {
-    "trait_type": "Outfit",
-    "value": "None"
-   },
-   {
-    "trait_type": "Backdrop",
-    "value": "Gold Rush"
-   },
-   {
-    "trait_type": "Symbol",
-    "value": "Royal"
-   },
-   {
-    "trait_type": "Tier",
-    "value": "Mythic"
-   },
-   {
-    "trait_type": "1 of 1",
-    "value": "The Golden Moon"
-   }
-  ]
- },
- {
-  "id": 25,
-  "batch": 0,
-  "tier": "Mythic",
-  "price_gram": null,
-  "name": "FOAMZ #25 · Souk Royale",
-  "description": "Gold & Bubblegum doing Gold Souk on a Black Gold backdrop. FOAMZ — block the noise. Squish, chill, repeat.",
-  "attributes": [
-   {
-    "trait_type": "Move",
-    "value": "Gold Souk"
-   },
-   {
-    "trait_type": "Foam",
-    "value": "Gold"
-   },
-   {
-    "trait_type": "Partner",
-    "value": "Bubblegum"
-   },
-   {
-    "trait_type": "Headwear",
-    "value": "Ghutra"
-   },
-   {
-    "trait_type": "Eyewear",
-    "value": "None"
-   },
-   {
-    "trait_type": "Outfit",
-    "value": "Kandura"
-   },
-   {
-    "trait_type": "Backdrop",
-    "value": "Black Gold"
-   },
-   {
-    "trait_type": "Symbol",
-    "value": "Royal"
-   },
-   {
-    "trait_type": "Tier",
-    "value": "Mythic"
-   },
-   {
-    "trait_type": "1 of 1",
-    "value": "Souk Royale"
-   }
-  ]
- },
- {
-  "id": 33,
-  "batch": 0,
-  "tier": "Mythic",
-  "price_gram": null,
-  "name": "FOAMZ #33 · Night Falcon",
-  "description": "Diamond doing Falcon on a Night Mode backdrop. FOAMZ — block the noise. Squish, chill, repeat.",
-  "attributes": [
-   {
-    "trait_type": "Move",
-    "value": "Falcon"
-   },
-   {
-    "trait_type": "Foam",
-    "value": "Diamond"
-   },
-   {
-    "trait_type": "Headwear",
-    "value": "Ghutra"
-   },
-   {
-    "trait_type": "Eyewear",
-    "value": "None"
-   },
-   {
-    "trait_type": "Outfit",
-    "value": "Kandura"
-   },
-   {
-    "trait_type": "Backdrop",
-    "value": "Night Mode"
-   },
-   {
-    "trait_type": "Symbol",
-    "value": "Crescent"
-   },
-   {
-    "trait_type": "Tier",
-    "value": "Mythic"
-   },
-   {
-    "trait_type": "1 of 1",
-    "value": "Night Falcon"
    }
   ]
  },
