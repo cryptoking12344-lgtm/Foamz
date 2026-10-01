@@ -598,5 +598,155 @@
   "status": "ready",
   "address": "EQD1KvKkX7Zucwx1L72Gp1TcpN-Ah-joOGKTvE6q4PtJbFW8",
   "url": "https://getgems.io/collection/EQDqMBKj6zr47OKeHOCumTvpurRaOdSmktO9eReIrevYeTHR/EQD1KvKkX7Zucwx1L72Gp1TcpN-Ah-joOGKTvE6q4PtJbFW8"
+ },
+ "foamz-mainnet-1": {
+  "id": 1,
+  "status": "ready",
+  "address": "EQART8Dq8grSI_a1BEbI0Lohz7J5jc6-7kd7yZl2TaOLdlk6",
+  "url": "https://getgems.io/collection/EQDqMBKj6zr47OKeHOCumTvpurRaOdSmktO9eReIrevYeTHR/EQART8Dq8grSI_a1BEbI0Lohz7J5jc6-7kd7yZl2TaOLdlk6"
+ },
+ "foamz-mainnet-2": {
+  "id": 2,
+  "status": "ready",
+  "address": "EQBP8dW3RwbxWLA60paqzIpWuX7swkAuRqTu5XujFdtkYiBv",
+  "url": "https://getgems.io/collection/EQDqMBKj6zr47OKeHOCumTvpurRaOdSmktO9eReIrevYeTHR/EQBP8dW3RwbxWLA60paqzIpWuX7swkAuRqTu5XujFdtkYiBv"
+ },
+ "foamz-mainnet-3": {
+  "id": 3,
+  "status": "ready",
+  "address": "EQBkLosOhutXixLKvZ2yOIYXUYCUKg0eWNpB_9o4qoBC0Y1J",
+  "url": "https://getgems.io/collection/EQDqMBKj6zr47OKeHOCumTvpurRaOdSmktO9eReIrevYeTHR/EQBkLosOhutXixLKvZ2yOIYXUYCUKg0eWNpB_9o4qoBC0Y1J"
+ },
+ "foamz-mainnet-4": {
+  "id": 4,
+  "status": "ready",
+  "address": "EQC4pJNYvhX1vqjkyaUlRFSq0Cj8EJQD89mHjG8TObhRgP1F",
+  "url": "https://getgems.io/collection/EQDqMBKj6zr47OKeHOCumTvpurRaOdSmktO9eReIrevYeTHR/EQC4pJNYvhX1vqjkyaUlRFSq0Cj8EJQD89mHjG8TObhRgP1F"
+ },
+ "foamz-mainnet-5": {
+  "id": 5,
+  "status": "ready",
+  "address": "EQDqH5yn7R-qPS1POlSbVb_VAnIbGwbqgSc5FGh_jFYQNmuK",
+  "url": "https://getgems.io/collection/EQDqMBKj6zr47OKeHOCumTvpurRaOdSmktO9eReIrevYeTHR/EQDqH5yn7R-qPS1POlSbVb_VAnIbGwbqgSc5FGh_jFYQNmuK"
+ },
+ "foamz-mainnet-6": {
+  "id": 6,
+  "status": "ready",
+  "address": "EQARh1yAwZi0eC6lGK9w1-pGc3uoLXVX4JNM7ccQCWoVbYq_",
+  "url": "https://getgems.io/collection/EQDqMBKj6zr47OKeHOCumTvpurRaOdSmktO9eReIrevYeTHR/EQARh1yAwZi0eC6lGK9w1-pGc3uoLXVX4JNM7ccQCWoVbYq_"
+ },
+ "foamz-mainnet-7": {
+  "id": 7,
+  "status": "ready",
+  "address": "EQBHy3HhuOLEq3Z-J8i-dp7IC96KAhltPPP2EMbGEzG65Zh5",
+  "url": "https://getgems.io/collection/EQDqMBKj6zr47OKeHOCumTvpurRaOdSmktO9eReIrevYeTHR/EQBHy3HhuOLEq3Z-J8i-dp7IC96KAhltPPP2EMbGEzG65Zh5"
+ },
+ "foamz-mainnet-8": {
+  "id": 8,
+  "status": "ready",
+  "address": "EQD62SPk2k7UZ1ADWI-E58JBu7e32tdHj4bSFxZ3FVWODcbl",
+  "url": "https://getgems.io/collection/EQDqMBKj6zr47OKeHOCumTvpurRaOdSmktO9eReIrevYeTHR/EQD62SPk2k7UZ1ADWI-E58JBu7e32tdHj4bSFxZ3FVWODcbl"
+ },
+ "foamz-mainnet-9": {
+  "id": 9,
+  "status": "ready",
+  "address": "EQDDb4YbBNjt_gOfFuNdq5adxQ764U0prgLW8Tt1XBJ9PSud",
+  "url": "https://getgems.io/collection/EQDqMBKj6zr47OKeHOCumTvpurRaOdSmktO9eReIrevYeTHR/EQDDb4YbBNjt_gOfFuNdq5adxQ764U0prgLW8Tt1XBJ9PSud"
+ },
+ "foamz-mainnet-10": {
+  "id": 10,
+  "status": "ready",
+  "address": "EQBLbZ2XfLheBTq3IZN-Wm0PqhHkgsxbVeM8J9YKdTBii8nN",
+  "url": "https://getgems.io/collection/EQDqMBKj6zr47OKeHOCumTvpurRaOdSmktO9eReIrevYeTHR/EQBLbZ2XfLheBTq3IZN-Wm0PqhHkgsxbVeM8J9YKdTBii8nN"
+ },
+ "foamz-mainnet-11": {
+  "id": 11,
+  "status": "ready",
+  "address": "EQBqDAxc-5Fd8txJe3Op4s9OyCWo2a5G_LCsM0X1F3w1zhdU",
+  "url": "https://getgems.io/collection/EQDqMBKj6zr47OKeHOCumTvpurRaOdSmktO9eReIrevYeTHR/EQBqDAxc-5Fd8txJe3Op4s9OyCWo2a5G_LCsM0X1F3w1zhdU"
+ },
+ "foamz-mainnet-12": {
+  "id": 12,
+  "status": "ready",
+  "address": "EQCNoOqSoTvb37i_As2w1RCXTn6R0n0aA_vS6eMYEBOxlJ94",
+  "url": "https://getgems.io/collection/EQDqMBKj6zr47OKeHOCumTvpurRaOdSmktO9eReIrevYeTHR/EQCNoOqSoTvb37i_As2w1RCXTn6R0n0aA_vS6eMYEBOxlJ94"
+ },
+ "foamz-mainnet-13": {
+  "id": 13,
+  "status": "ready",
+  "address": "EQDvWD8bMg21649sco9Z4zyqd9RaEFExPNn-L8qfnpF6o8Fa",
+  "url": "https://getgems.io/collection/EQDqMBKj6zr47OKeHOCumTvpurRaOdSmktO9eReIrevYeTHR/EQDvWD8bMg21649sco9Z4zyqd9RaEFExPNn-L8qfnpF6o8Fa"
+ },
+ "foamz-mainnet-14": {
+  "id": 14,
+  "status": "ready",
+  "address": "EQAq_EreGsvcxC1pobhaXlMYj5p-wJ0TiJlvjSaXFOGJqqMX",
+  "url": "https://getgems.io/collection/EQDqMBKj6zr47OKeHOCumTvpurRaOdSmktO9eReIrevYeTHR/EQAq_EreGsvcxC1pobhaXlMYj5p-wJ0TiJlvjSaXFOGJqqMX"
+ },
+ "foamz-mainnet-21": {
+  "id": 21,
+  "status": "ready",
+  "address": "EQAURD98GdaRqbVA4n-hRVLk9_-5eNBKbe6Ao2PYWEjFrLWg",
+  "url": "https://getgems.io/collection/EQDqMBKj6zr47OKeHOCumTvpurRaOdSmktO9eReIrevYeTHR/EQAURD98GdaRqbVA4n-hRVLk9_-5eNBKbe6Ao2PYWEjFrLWg"
+ },
+ "foamz-mainnet-25": {
+  "id": 25,
+  "status": "ready",
+  "address": "EQD4PNwmnh4Kj4pI_UXQwViaYGyX4Q_WykuQ3UXDd8QPezBn",
+  "url": "https://getgems.io/collection/EQDqMBKj6zr47OKeHOCumTvpurRaOdSmktO9eReIrevYeTHR/EQD4PNwmnh4Kj4pI_UXQwViaYGyX4Q_WykuQ3UXDd8QPezBn"
+ },
+ "foamz-mainnet-28": {
+  "id": 28,
+  "status": "ready",
+  "address": "EQDqvJb95jcyM0zIy19ZybA3tPqYCvBQ1X1UgL92JrHFdw44",
+  "url": "https://getgems.io/collection/EQDqMBKj6zr47OKeHOCumTvpurRaOdSmktO9eReIrevYeTHR/EQDqvJb95jcyM0zIy19ZybA3tPqYCvBQ1X1UgL92JrHFdw44"
+ },
+ "foamz-mainnet-32": {
+  "id": 32,
+  "status": "ready",
+  "address": "EQBzGqPyZSEgcDedaXsQac1cMjJXenyRXv03cL2OO7sgVU0p",
+  "url": "https://getgems.io/collection/EQDqMBKj6zr47OKeHOCumTvpurRaOdSmktO9eReIrevYeTHR/EQBzGqPyZSEgcDedaXsQac1cMjJXenyRXv03cL2OO7sgVU0p"
+ },
+ "foamz-mainnet-33": {
+  "id": 33,
+  "status": "ready",
+  "address": "EQBm71ubMSC3TJliH9LKUBxwD2v7fVQcyvmdFO6sdWQ51Hue",
+  "url": "https://getgems.io/collection/EQDqMBKj6zr47OKeHOCumTvpurRaOdSmktO9eReIrevYeTHR/EQBm71ubMSC3TJliH9LKUBxwD2v7fVQcyvmdFO6sdWQ51Hue"
+ },
+ "foamz-mainnet-39": {
+  "id": 39,
+  "status": "ready",
+  "address": "EQAO-TQLCHGJc2wUwsuXqfQI4NcfEdH151709RE1oMnZdOYB",
+  "url": "https://getgems.io/collection/EQDqMBKj6zr47OKeHOCumTvpurRaOdSmktO9eReIrevYeTHR/EQAO-TQLCHGJc2wUwsuXqfQI4NcfEdH151709RE1oMnZdOYB"
+ },
+ "foamz-mainnet-43": {
+  "id": 43,
+  "status": "ready",
+  "address": "EQAr9rHmzGy3Tzgs7IZq8eDBt90cIV6j4FPcIyZBshsG4ao9",
+  "url": "https://getgems.io/collection/EQDqMBKj6zr47OKeHOCumTvpurRaOdSmktO9eReIrevYeTHR/EQAr9rHmzGy3Tzgs7IZq8eDBt90cIV6j4FPcIyZBshsG4ao9"
+ },
+ "foamz-mainnet-46": {
+  "id": 46,
+  "status": "ready",
+  "address": "EQAn955H8z_ThGFYacMEaTXb9GCfdwwmvAFBprd45ruLeyj7",
+  "url": "https://getgems.io/collection/EQDqMBKj6zr47OKeHOCumTvpurRaOdSmktO9eReIrevYeTHR/EQAn955H8z_ThGFYacMEaTXb9GCfdwwmvAFBprd45ruLeyj7"
+ },
+ "foamz-mainnet-48": {
+  "id": 48,
+  "status": "ready",
+  "address": "EQBdQD57a1TAYdg87DDOfo6yl12ye8hnUxXCThawiLgYz0nx",
+  "url": "https://getgems.io/collection/EQDqMBKj6zr47OKeHOCumTvpurRaOdSmktO9eReIrevYeTHR/EQBdQD57a1TAYdg87DDOfo6yl12ye8hnUxXCThawiLgYz0nx"
+ },
+ "foamz-mainnet-51": {
+  "id": 51,
+  "status": "ready",
+  "address": "EQC_k80AuzTfuWpOT4jX0msv67A9c1-hI8spFmHqCcAorkBE",
+  "url": "https://getgems.io/collection/EQDqMBKj6zr47OKeHOCumTvpurRaOdSmktO9eReIrevYeTHR/EQC_k80AuzTfuWpOT4jX0msv67A9c1-hI8spFmHqCcAorkBE"
+ },
+ "foamz-mainnet-53": {
+  "id": 53,
+  "status": "ready",
+  "address": "EQAMX2_pliNsgY-7yNCfmEYliRXP33EfFSkH0vL9j6y8tBeK",
+  "url": "https://getgems.io/collection/EQDqMBKj6zr47OKeHOCumTvpurRaOdSmktO9eReIrevYeTHR/EQAMX2_pliNsgY-7yNCfmEYliRXP33EfFSkH0vL9j6y8tBeK"
  }
 }
